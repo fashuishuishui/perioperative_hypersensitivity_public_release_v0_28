@@ -1,0 +1,17 @@
+﻿database,drug_class,outcome_group,context_status,report_n,drug_sequence_median,drug_sequence_q1,drug_sequence_q3,drug_sequence_mean,definition
+FAERS,NMBA,non-core reports,outside,2869,1.0,1.0,3.0,2.6204252352736144,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,NMBA,non-core reports,inside,7093,8.0,5.0,13.0,11.276328774848443,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,NMBA,core anaphylaxis,outside,746,2.0,1.0,3.0,3.5160857908847185,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,NMBA,core anaphylaxis,inside,2460,6.0,4.0,9.0,7.4089430894308945,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,antibiotic_anchor,non-core reports,outside,156826,3.0,2.0,7.0,6.4493068751355,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,antibiotic_anchor,non-core reports,inside,9537,13.0,7.0,22.0,28.63038691412394,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,antibiotic_anchor,core anaphylaxis,outside,5169,2.0,1.0,3.0,3.474366415167344,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,antibiotic_anchor,core anaphylaxis,inside,1907,7.0,5.0,10.0,9.006816990036707,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,chlorhexidine,non-core reports,outside,10249,10.0,1.0,70.0,60.19377500243926,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,chlorhexidine,non-core reports,inside,1334,146.0,74.0,230.0,168.52773613193403,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,chlorhexidine,core anaphylaxis,outside,217,2.0,1.0,4.0,3.3410138248847927,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,chlorhexidine,core anaphylaxis,inside,213,10.0,7.0,22.0,19.408450704225352,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,dye_anchor,non-core reports,outside,557,3.0,1.0,6.0,5.010771992818672,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,dye_anchor,non-core reports,inside,501,10.0,7.0,16.0,12.1437125748503,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,dye_anchor,core anaphylaxis,outside,61,1.0,1.0,2.0,2.0491803278688523,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit
+FAERS,dye_anchor,core anaphylaxis,inside,79,8.0,6.0,12.0,10.30379746835443,distinct raw FAERS DRUG_SEQ records per suspect-class report; descriptive selection audit

@@ -1,0 +1,180 @@
+﻿database,agent,scope,outcome_group,country_field,country,country_normalized_for_display,report_n,purpose
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",FR,FR,514,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",GB,United Kingdom,433,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",JP,Japan,148,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IT,IT,136,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",ES,ES,132,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",CN,CN,105,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",EU,EU,55,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IN,IN,52,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",UNITED KINGDOM,United Kingdom,51,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",GR,GR,47,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TR,TR,46,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TW,TW,37,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",BR,BR,34,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",DE,DE,31,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",MISSING,MISSING,29,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",HU,HU,26,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",KR,KR,21,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",CH,CH,20,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",FRANCE,FRANCE,18,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",PL,PL,18,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",AU,AU,16,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",JAPAN,Japan,15,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",CZ,CZ,14,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",RO,RO,14,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",FI,FI,12,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",NL,NL,11,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",ITALY,ITALY,10,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",PT,PT,10,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IE,IE,9,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TURKEY,TURKEY,9,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",US,US,9,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",SPAIN,SPAIN,7,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IR,IR,6,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",OM,OM,6,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY","TAIWAN, PROVINCE OF CHINA","TAIWAN, PROVINCE OF CHINA",6,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",SI,SI,5,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TN,TN,5,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",EG,EG,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",GREECE,GREECE,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",QA,QA,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",UA,UA,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",UNITED STATES,UNITED STATES,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",ZA,ZA,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",BG,BG,3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",CL,CL,3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",GERMANY,GERMANY,3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",HR,HR,3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY","KOREA, REPUBLIC OF","KOREA, REPUBLIC OF",3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",KP,KP,3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TH,TH,3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",AUSTRALIA,AUSTRALIA,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",BE,BE,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",BRAZIL,BRAZIL,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",CHINA,CHINA,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",LK,LK,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",MT,MT,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",SA,SA,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",AE,AE,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",AR,AR,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",AT,AT,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",INDIA,INDIA,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IQ,IQ,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IRELAND,IRELAND,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",KW,KW,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",MX,MX,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",NETHERLANDS,NETHERLANDS,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",RU,RU,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",SAUDI ARABIA,SAUDI ARABIA,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",SWEDEN,SWEDEN,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,core anaphylaxis,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",GB,United Kingdom,107,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,core anaphylaxis,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",ES,ES,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,core anaphylaxis,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",AU,AU,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,core anaphylaxis,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",JP,Japan,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,all suspect reports,core anaphylaxis,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TW,TW,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",GB,United Kingdom,111,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",FR,FR,23,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",JP,Japan,14,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",FI,FI,10,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",CN,CN,9,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",DE,DE,8,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",ES,ES,7,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IT,IT,7,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",UNITED KINGDOM,United Kingdom,7,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",BR,BR,5,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",CH,CH,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",JAPAN,Japan,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",OM,OM,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",AU,AU,3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",EU,EU,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IN,IN,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",ITALY,ITALY,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",RO,RO,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY","TAIWAN, PROVINCE OF CHINA","TAIWAN, PROVINCE OF CHINA",2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TW,TW,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",BG,BG,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",FRANCE,FRANCE,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",HR,HR,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",KR,KR,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",LK,LK,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",QA,QA,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",SPAIN,SPAIN,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TN,TN,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TR,TR,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,core anaphylaxis,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",GB,United Kingdom,55,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,core anaphylaxis,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",AU,AU,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,core anaphylaxis,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",ES,ES,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,inside context,core anaphylaxis,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",JP,Japan,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",FR,FR,491,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",GB,United Kingdom,322,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",JP,Japan,134,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IT,IT,129,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",ES,ES,125,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",CN,CN,96,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",EU,EU,53,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IN,IN,50,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",GR,GR,47,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TR,TR,45,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",UNITED KINGDOM,United Kingdom,44,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TW,TW,35,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",BR,BR,29,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",MISSING,MISSING,29,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",HU,HU,26,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",DE,DE,23,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",KR,KR,20,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",PL,PL,18,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",FRANCE,FRANCE,17,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",CH,CH,16,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",CZ,CZ,14,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",AU,AU,13,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",RO,RO,12,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",JAPAN,Japan,11,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",NL,NL,11,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",PT,PT,10,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IE,IE,9,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TURKEY,TURKEY,9,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",US,US,9,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",ITALY,ITALY,8,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IR,IR,6,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",SPAIN,SPAIN,6,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",SI,SI,5,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",EG,EG,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",GREECE,GREECE,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY","TAIWAN, PROVINCE OF CHINA","TAIWAN, PROVINCE OF CHINA",4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TN,TN,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",UA,UA,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",UNITED STATES,UNITED STATES,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",ZA,ZA,4,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",CL,CL,3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",GERMANY,GERMANY,3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY","KOREA, REPUBLIC OF","KOREA, REPUBLIC OF",3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",KP,KP,3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",QA,QA,3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TH,TH,3,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",AUSTRALIA,AUSTRALIA,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",BE,BE,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",BG,BG,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",BRAZIL,BRAZIL,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",CHINA,CHINA,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",FI,FI,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",HR,HR,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",MT,MT,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",OM,OM,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",SA,SA,2,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",AE,AE,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",AR,AR,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",AT,AT,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",INDIA,INDIA,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IQ,IQ,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",IRELAND,IRELAND,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",KW,KW,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",LK,LK,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",MX,MX,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",NETHERLANDS,NETHERLANDS,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",RU,RU,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",SAUDI ARABIA,SAUDI ARABIA,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,non-core reports,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",SWEDEN,SWEDEN,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,core anaphylaxis,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",GB,United Kingdom,52,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,core anaphylaxis,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",ES,ES,1,geographic structure audit; not an exposure denominator
+FAERS,teicoplanin,outside context,core anaphylaxis,"OCCR_COUNTRY when present, otherwise REPORTER_COUNTRY",TW,TW,1,geographic structure audit; not an exposure denominator

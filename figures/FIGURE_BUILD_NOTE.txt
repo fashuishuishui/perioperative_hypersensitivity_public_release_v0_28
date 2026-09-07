@@ -1,0 +1,3 @@
+v0.26 figures generated from aggregate_outputs/schema_fixed.
+Sparse agent cells are de-emphasized rather than converted with continuity corrections.
+Output formats: PDF, SVG, PNG preview.

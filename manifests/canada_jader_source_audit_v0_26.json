@@ -1,0 +1,84 @@
+{
+  "source_audits": [
+    {
+      "database": "Canada Vigilance",
+      "logical_extract": "CANADA_20250731",
+      "report_rows": 1204167,
+      "unique_report_ids": 1204167,
+      "duplicate_report_id_rows": 0,
+      "empty_report_id_rows": 0,
+      "reaction_rows": 4685834,
+      "reaction_rows_linked_to_report": 4685834,
+      "reaction_rows_unlinked_or_empty": 0,
+      "drug_rows": 5378102,
+      "drug_rows_linked_to_report": 5378090,
+      "drug_rows_unlinked_or_empty": 12,
+      "deduplication_decision": "No duplicate Canada report identifiers were observed; report identifier is used as supplied."
+    },
+    {
+      "database": "JADER",
+      "logical_extract": "JADER_202511",
+      "demo_rows": 998397,
+      "unique_report_ids": 998397,
+      "repeated_report_id_rows": 0,
+      "nonnumeric_report_round_rows": 0,
+      "reaction_rows": 1653357,
+      "reaction_rows_linked_to_latest_report_round": 1653357,
+      "reaction_rows_unlinked_or_empty": 0,
+      "drug_rows": 4864949,
+      "drug_rows_linked_to_latest_report_round": 4864949,
+      "drug_rows_unlinked_or_empty": 0,
+      "deduplication_decision": "No repeated JADER report identifiers were observed in this extract; the latest-round rule is implemented and is identity-preserving."
+    }
+  ],
+  "files": [
+    {
+      "database": "Canada Vigilance",
+      "logical_name": "reports.txt",
+      "local_name": "reports.txt.baiduyun.p.downloading",
+      "bytes": 441982110,
+      "sha256": "5209b8462fe0f284cb700ca109192e3dde97c3f5670ed9958ad0ce92af755b17",
+      "encoding": "UTF-8"
+    },
+    {
+      "database": "Canada Vigilance",
+      "logical_name": "reactions.txt",
+      "local_name": "reactions.txt.baiduyun.p.downloading",
+      "bytes": 778213784,
+      "sha256": "54021cc2c972caa794970dbd52614f54dfe26ecee51f102c8c047b4dfb89e49a",
+      "encoding": "UTF-8"
+    },
+    {
+      "database": "Canada Vigilance",
+      "logical_name": "report_drug.txt",
+      "local_name": "report_drug.txt.baiduyun.p.downloading",
+      "bytes": 1013409594,
+      "sha256": "4976a19ed726a068f649f1449c143b67a2185294de953fce22f29420612b665d",
+      "encoding": "UTF-8"
+    },
+    {
+      "database": "JADER",
+      "logical_name": "demo202511.csv",
+      "local_name": "demo202511.csv.baiduyun.p.downloading",
+      "bytes": 72055370,
+      "sha256": "e45e63aa63ec102ac726c371489913edbe4a95c9e3214e8fc2ddc3e637fc0f6e",
+      "encoding": "CP932"
+    },
+    {
+      "database": "JADER",
+      "logical_name": "reac202511.csv",
+      "local_name": "reac202511.csv.baiduyun.p.downloading",
+      "bytes": 71633658,
+      "sha256": "3b30412b64e68ba4f0e8784188852940da71808f4a0e897d2835948b3cf22186",
+      "encoding": "CP932"
+    },
+    {
+      "database": "JADER",
+      "logical_name": "drug202511.csv",
+      "local_name": "drug202511.csv.baiduyun.p.downloading",
+      "bytes": 503632509,
+      "sha256": "4c861e7ab82a18aeeaff8a67602e989fa33f7fbf1c545e387b2fed963c894624",
+      "encoding": "CP932"
+    }
+  ]
+}

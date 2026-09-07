@@ -1,0 +1,43 @@
+{
+  "build": "v0.24 licensed official Anaphylactic reaction SMQ pilot",
+  "created_utc": "2026-07-20T03:02:07.298008+00:00",
+  "smq_metadata": {
+    "code": "20000021",
+    "name": "Anaphylactic reaction (SMQ)",
+    "level": "1",
+    "version": "28.0",
+    "status": "A",
+    "algorithm": "A or (B and C) or (D and (B or C))"
+  },
+  "licensed_membership_not_redistributed": true,
+  "smq_content_active_rows": 863,
+  "unique_pt_members": 95,
+  "narrow_unique_pt_members": 12,
+  "category_unique_pt_counts": {
+    "A": 12,
+    "B": 43,
+    "C": 30,
+    "D": 10
+  },
+  "source_hashes": {
+    "smq_list.asc": "d15cc80a454260ee35a4564e3ddd7bb1f512770d6f8d4656a95729bc5f3a045a",
+    "smq_content.asc": "acd95cefe0b0e523e1d0b5ff335feb27fd5bed1e455d271ce88a1ff27396a821",
+    "pt.asc": "5505550b4e490993d3f4eb73791ff0edd4d34fb5025db4785e3bc70d20b4c243",
+    "llt.asc": "789c45114cf0ba57b0cae1365f732b7fa1f9f4e6e1e5e18f07d1b15ac43621d0"
+  },
+  "faers_retained_event_units": {
+    "narrow": 91373,
+    "broad_algorithm": 286580
+  },
+  "canada_event_units": {
+    "narrow": 11676,
+    "broad_algorithm": 44909
+  },
+  "jader_status": "not run as official SMQ: the local JADER extract stores Japanese PT strings and no licensed MedDRA/J v28.1 PT-code crosswalk was found",
+  "output_csv": "official_anaphylactic_reaction_smq_v28_pilot_v0_24.csv",
+  "output_sha256": "18490d866821635d4d63dfa6eb4a5f6c2cd0d7dc37fcc63ede040559241447bd",
+  "country_strata_output_csv": "official_anaphylactic_reaction_smq_v28_country_strata_v0_24.csv",
+  "country_strata_output_sha256": "341fb3042b194c72c7faf156c3818892a9219f14cf8168bc3377bb38c10051bd",
+  "country_summary_output_csv": "official_anaphylactic_reaction_smq_v28_country_summary_v0_24.csv",
+  "country_summary_output_sha256": "c27c5612ca314e5420dcdf8b1265b8ba43c762306fc1c8ec2ab8d836cbd297a1"
+}

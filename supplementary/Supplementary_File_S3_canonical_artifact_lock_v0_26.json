@@ -1,0 +1,131 @@
+{
+  "build": "v0.26 schema-fixed canonical artifact lock",
+  "created_utc": "2026-08-02T15:08:00.738539+00:00",
+  "analysis_unit": "database-specific retained report unit",
+  "coverage": {
+    "FAERS": {
+      "retained_reports": 19961236,
+      "core_anaphylaxis_reports": 60570,
+      "medication_context_reports": 370050
+    },
+    "Canada": {
+      "retained_reports": 1204167,
+      "core_anaphylaxis_reports": 7797,
+      "medication_context_reports": 16916
+    },
+    "JADER": {
+      "retained_reports": 998397,
+      "core_anaphylaxis_reports": 32665,
+      "medication_context_reports": 28989
+    }
+  },
+  "validation_rules": {
+    "agent_tables": "2 x 2 cells sum to printed class denominators; displayed shares, percentage-point contrasts, and nonsparse RORs recompute from cells",
+    "country": "FAERS GB/non-GB/missing-country 2 x 2 cells sum to the corresponding medication-context agent contrast",
+    "burden": "FAERS medication-burden strata sum to the corresponding class-level medication-context contrast",
+    "role_profiles": "FAERS PS/SS role profiles sum to the medication-context class denominators",
+    "jader_structure": "baseline chlorhexidine medication-context counts reconcile between the primary context output and the structural audit",
+    "official_smq": "SMQ 2 x 2 cells and nonsparse RORs recompute from the licensed-term aggregate output",
+    "breslow_day": "R/DescTools independently recomputes the Breslow-Day and Tarone variants from the locked country-strata 2 x 2 tables"
+  },
+  "inputs": {
+    "agent_primary": {
+      "file": "agent_primary_suspect_suspect_v0_26.csv",
+      "bytes": 5817,
+      "sha256": "ae2b2eb870340c525e9fff0c4a0fddc9346f69daaa3df7f1cdd8ef8319d09696"
+    },
+    "agent_context": {
+      "file": "agent_within_nonculprit_context_v0_26.csv",
+      "bytes": 3823,
+      "sha256": "e76b163fa0e0e35f69425d8015abf04ba674f84f07e59da0fb62d5ad15e8dea8"
+    },
+    "agent_volume_proxy": {
+      "file": "agent_same_class_report_volume_proxy_v0_26.csv",
+      "bytes": 15857,
+      "sha256": "b54817dbdb4aefdc2f82df0662e210a6f1e4c3b6255b3bb39dcb8463db585386"
+    },
+    "class_context": {
+      "file": "nonculprit_context_background_v0_26.csv",
+      "bytes": 3732,
+      "sha256": "a1425c1d5d476f34c8dfe6cfdf264199fd0da2baece85b4710351dcc832adc38"
+    },
+    "broad_pt": {
+      "file": "faers_context_broad_pt_sensitivity_v0_20.csv",
+      "bytes": 3592,
+      "sha256": "0cf059766b4c573e4726153becf7323076ce55aa7da4ef808f8bb054bdbe7b3e"
+    },
+    "country": {
+      "file": "faers_agent_occr_country_stratified_v0_16.csv",
+      "bytes": 3148,
+      "sha256": "d12823ecebccd4895832efb263ebd9b5602166a8ae7d46818113c77f5820f08e"
+    },
+    "role_profile": {
+      "file": "faers_context_suspect_role_profile_v0_16.csv",
+      "bytes": 1455,
+      "sha256": "ded9baf90fe60be12b4b522e64dd2161741ccac8715052f1d3b1813ac30f9da1"
+    },
+    "role_contrast": {
+      "file": "faers_agent_ps_only_role_contrast_v0_16.csv",
+      "bytes": 711,
+      "sha256": "f65e1ad01b31fa719e72e153bde2ba7ef4b9b65210c9a701a111b397ad76b5b9"
+    },
+    "burden": {
+      "file": "faers_context_class_ror_by_drug_burden_v0_16.csv",
+      "bytes": 3929,
+      "sha256": "ccdc61fdf27823f5ae80874de549d0ddb8c7dcaece3ef9c6c903e47283ee3860"
+    },
+    "jader_structure": {
+      "file": "jader_structure_and_vaccine_audit_v0_26.csv",
+      "bytes": 4154,
+      "sha256": "7934aaf64eae05a5a9b94149368b9a3fcc3048271ad343ffae6be880bb828106"
+    },
+    "smq": {
+      "file": "official_anaphylactic_reaction_smq_v28_pilot_v0_26.csv",
+      "bytes": 3515,
+      "sha256": "17147d0bb518c31c533b8399c4bcb61745efca0d9921f639ecffdf561a5d37e5"
+    },
+    "breslow_day": {
+      "file": "breslow_day_variant_validation_v0_26.csv",
+      "bytes": 753,
+      "sha256": "539e7c117e9612850ebd6d69aa852caf32e207fc7c583e784eea66302acea314"
+    },
+    "database_summary": {
+      "file": "report_level_database_summary_canada_jader.csv",
+      "bytes": 220,
+      "sha256": "45e6d4d40b7284449c0de2966663a9ab12ba850f8687bd362d6b77ce5c502864"
+    },
+    "faers_flags_db": {
+      "file": "faers_flags_schema_fixed.sqlite",
+      "bytes": 335089664,
+      "sha256": "4b07343e5b8a74ded8dacd6187afd635b36fa90e04b458d9e71e82facc4a567b"
+    },
+    "canada_jader_flags_db": {
+      "file": "report_level_flags_canada_jader_schema_fixed.sqlite",
+      "bytes": 710778880,
+      "sha256": "407f9862e1b364107bcdbadf2e40bf9342fb5f85d9fe206996751acc3e40f887"
+    },
+    "faers_latest_cache": {
+      "file": "faers_latest_2004q1_2025q4.sqlite",
+      "bytes": 3205517312,
+      "sha256": "509f47d5bc76cc78a2f0881d3c9019a456799e0eaff710ada815f0417b8c980c"
+    }
+  },
+  "outputs": {
+    "canonical_agent_primary_v0_26.csv": {
+      "file": "canonical_agent_primary_v0_26.csv",
+      "bytes": 2065,
+      "sha256": "4f5d5131a8964c610328ac4b13989f019535b11202888607cbf3aa893c7f675a"
+    },
+    "canonical_agent_context_v0_26.csv": {
+      "file": "canonical_agent_context_v0_26.csv",
+      "bytes": 2115,
+      "sha256": "1210e9298c8dfd5883e873acc0310de7613b39885ec7f1cac0d6374611aadfcd"
+    },
+    "canonical_agent_country_v0_26.csv": {
+      "file": "canonical_agent_country_v0_26.csv",
+      "bytes": 1181,
+      "sha256": "7c35a4eac5d57d9ceedda29945de3c1bf0850fd6f4f04d22fa1614dd72603ffd"
+    }
+  },
+  "result": "passed"
+}

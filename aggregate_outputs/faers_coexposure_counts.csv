@@ -1,0 +1,12 @@
+﻿database,event_group,culprit_class_count,report_n,pair,any_pair_n,suspect_pair_n
+FAERS,anaphylaxis_core,0,50975,,,
+FAERS,anaphylaxis_core,1,8446,,,
+FAERS,anaphylaxis_core,2,1044,,,
+FAERS,anaphylaxis_core,3,102,,,
+FAERS,anaphylaxis_core,4,3,,,
+FAERS,anaphylaxis_core,,,NMBA__antibiotic_anchor,1429,997
+FAERS,anaphylaxis_core,,,NMBA__chlorhexidine,196,128
+FAERS,anaphylaxis_core,,,NMBA__dye_anchor,60,45
+FAERS,anaphylaxis_core,,,antibiotic_anchor__chlorhexidine,222,144
+FAERS,anaphylaxis_core,,,antibiotic_anchor__dye_anchor,53,44
+FAERS,anaphylaxis_core,,,chlorhexidine__dye_anchor,12,10

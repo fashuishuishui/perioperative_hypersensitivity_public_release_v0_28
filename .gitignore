@@ -1,0 +1,14 @@
+external_data/
+external_licensed/
+work/
+*.sqlite
+*.db
+*.zip
+*.7z
+*.rar
+*.downloading
+*.log
+__pycache__/
+.Rhistory
+.RData
+.DS_Store

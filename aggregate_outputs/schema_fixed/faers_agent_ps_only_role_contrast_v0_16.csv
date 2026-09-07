@@ -1,0 +1,5 @@
+﻿database,drug_class,agent,role_definition,a_agent_ps_core,b_other_ps_agent_status_core,c_agent_ps_noncore,d_other_ps_agent_status_noncore,ror_no_correction
+FAERS,NMBA,rocuronium,primary suspect (PS) configured-alias reconstruction within PS-class reports,505,176,1297,1093,2.4180144739608886
+FAERS,NMBA,succinylcholine,primary suspect (PS) configured-alias reconstruction within PS-class reports,5,676,259,2131,0.06085650316419547
+FAERS,antibiotic_anchor,cefazolin,primary suspect (PS) configured-alias reconstruction within PS-class reports,90,505,235,2841,2.154539709290078
+FAERS,antibiotic_anchor,teicoplanin,primary suspect (PS) configured-alias reconstruction within PS-class reports,0,595,0,3076,

@@ -1,0 +1,7 @@
+database,logical_name,local_name,bytes,sha256,encoding
+Canada Vigilance,reports.txt,reports.txt.baiduyun.p.downloading,441982110,5209b8462fe0f284cb700ca109192e3dde97c3f5670ed9958ad0ce92af755b17,UTF-8
+Canada Vigilance,reactions.txt,reactions.txt.baiduyun.p.downloading,778213784,54021cc2c972caa794970dbd52614f54dfe26ecee51f102c8c047b4dfb89e49a,UTF-8
+Canada Vigilance,report_drug.txt,report_drug.txt.baiduyun.p.downloading,1013409594,4976a19ed726a068f649f1449c143b67a2185294de953fce22f29420612b665d,UTF-8
+JADER,demo202511.csv,demo202511.csv.baiduyun.p.downloading,72055370,e45e63aa63ec102ac726c371489913edbe4a95c9e3214e8fc2ddc3e637fc0f6e,CP932
+JADER,reac202511.csv,reac202511.csv.baiduyun.p.downloading,71633658,3b30412b64e68ba4f0e8784188852940da71808f4a0e897d2835948b3cf22186,CP932
+JADER,drug202511.csv,drug202511.csv.baiduyun.p.downloading,503632509,4c861e7ab82a18aeeaff8a67602e989fa33f7fbf1c545e387b2fed963c894624,CP932

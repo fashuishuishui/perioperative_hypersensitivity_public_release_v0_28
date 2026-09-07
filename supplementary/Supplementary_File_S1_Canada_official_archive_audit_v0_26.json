@@ -1,0 +1,18 @@
+{
+  "database": "Canada Vigilance",
+  "source_type": "official Open Canada catalogue resource",
+  "catalogue_dataset_id": "9cbaef00-b52c-4a70-9fed-d9aa8263ab74",
+  "catalogue_resource_id": "2e736909-ef1f-4d60-bfb6-f15b3be3b1fa",
+  "source_url": "https://open.canada.ca/data/dataset/9cbaef00-b52c-4a70-9fed-d9aa8263ab74/resource/2e736909-ef1f-4d60-bfb6-f15b3be3b1fa/download/extract_extrait.zip",
+  "catalogue_resource_last_modified": "2025-05-28T17:41:17.681636",
+  "local_archive_name": "extract_extrait.zip",
+  "archive_bytes": 313578432,
+  "archive_sha256": "abff0c61ae34316944c1258abe859144a5c9bcb05295350cebb017e5832e596c",
+  "archive_crc_check": "passed",
+  "archive_internal_root": "cvponline_extract_20241130",
+  "coverage_inferred_from_internal_root": "through 2024-11-30",
+  "planned_study_extract": "2025-07-31",
+  "decision": "not substituted into the primary v0.26 analysis",
+  "rationale": "The official archive is a different historical snapshot from the prespecified Canada extract. Replacing the original source window would be a protocol amendment and would require a fully separate Canada rebuild and manuscript-wide date reconciliation.",
+  "permitted_use_in_v0_26": "source-provenance audit only; not an analysis input"
+}

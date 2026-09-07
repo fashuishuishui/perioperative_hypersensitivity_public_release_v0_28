@@ -1,0 +1,119 @@
+{
+  "build": "v0.20 canonical manuscript artifact lock",
+  "created_utc": "2026-07-20T07:13:14.691969+00:00",
+  "analysis_unit": "report-level flags; FAERS context analysis uses the case-level branch stored in faers_periop_hypersensitivity_prelim.sqlite",
+  "inputs": [
+    {
+      "path": "external_input/faers_periop_hypersensitivity_prelim.sqlite",
+      "bytes": 344604672,
+      "sha256": "cd9a085526c0a3c5c3ff2c6834c9b88813e95206e6d454be9d22772079ad0792"
+    },
+    {
+      "path": "external_input/report_level_flags_canada_jader.sqlite",
+      "bytes": 715059200,
+      "sha256": "e2e08af9a7a2f14b04eb3be33f2bba23a8d0b285ce68bf7d9ebfbd3e00084b98"
+    },
+    {
+      "path": "config/drug_class_aliases.csv",
+      "bytes": 7344,
+      "sha256": "9fd30fb0b9c0e410f43f996eb786726f8487e96f301be4280f49dfa841eef7a4"
+    },
+    {
+      "path": "config/event_pt_groups.csv",
+      "bytes": 2073,
+      "sha256": "8e72897cf365843d68a5114632acbb62769939268a8f768e04097504ebb45e4c"
+    },
+    {
+      "path": "code/run_estimand_context_sensitivities.py",
+      "bytes": 15916,
+      "sha256": "65d23546aee4167a102f4b2c9fbf26804f8e32d0d043cffff6772503e2627ea6"
+    },
+    {
+      "path": "code/run_reference_setting_audits.py",
+      "bytes": 18227,
+      "sha256": "c573db2f722282bf202140731682bab4d2dd91660892438523c89a8569bc1d66"
+    },
+    {
+      "path": "code/run_country_role_probes.py",
+      "bytes": 13587,
+      "sha256": "3bc2499f9811f97e96c3c408f62d1a166027e636ea13ea8f5986bf97410776b2"
+    },
+    {
+      "path": "code/build_canonical_artifacts.py",
+      "bytes": 15591,
+      "sha256": "186edf3f6825b60870a62d97f6fa02d020c5d424145d13a8a0c11f49806856bb"
+    },
+    {
+      "path": "code/validate_breslow_day.R",
+      "bytes": 3034,
+      "sha256": "238deed591bfbf5fe8fc2540b07d77afe5845fba0cdacda824b786691e503443"
+    },
+    {
+      "path": "code/run_broad_pt_sensitivity.py",
+      "bytes": 3994,
+      "sha256": "f2451284bd493c234e7180c62032d4bc411ad21bb5575ea747d53d7f2f8cdbcd"
+    },
+    {
+      "path": "code/run_teicoplanin_time_audit.py",
+      "bytes": 1784,
+      "sha256": "311202ca2bf32db1f4e03b4e010e7a8c5d1590e55ad30331580c38b88c2a98c3"
+    },
+    {
+      "path": "intermediate_not_distributed/agent_within_nonculprit_context_v0_14.csv",
+      "bytes": 3820,
+      "sha256": "c540d52ed5a0b618aa20dae860d69cbd2eea50fdea3a6bcc5f5e4a9b9fa5904f"
+    },
+    {
+      "path": "intermediate_not_distributed/faers_context_class_ror_by_drug_burden_v0_16.csv",
+      "bytes": 3936,
+      "sha256": "7659cab1303962e4259aca6f3bfaa5039cdc3d4d372ce2eae16a694a2a6147f2"
+    },
+    {
+      "path": "intermediate_not_distributed/faers_agent_occr_country_stratified_v0_16.csv",
+      "bytes": 3174,
+      "sha256": "27c24ff364fb97441d1148d44b0b16a592dc1276669b8d0eeeb330b2fc1904dc"
+    },
+    {
+      "path": "intermediate_not_distributed/faers_agent_ps_only_role_contrast_v0_16.csv",
+      "bytes": 713,
+      "sha256": "7d0272ef8f45c8dcba01ffa5f436a301beff3e16fab3d9aaab3cb3b2d038735d"
+    },
+    {
+      "path": "intermediate_not_distributed/faers_context_suspect_role_profile_v0_16.csv",
+      "bytes": 1457,
+      "sha256": "f2c469a21e140e6d6497b9fd17fb03eb14b032bc3ad35804873cd16e56be9615"
+    },
+    {
+      "path": "aggregate_outputs/faers_context_broad_pt_sensitivity_v0_20.csv",
+      "bytes": 1902,
+      "sha256": "0b54ec28f003af6f8ab0c0d4cbf54f16d2bee76058045405a1fd4a28b81548b3"
+    },
+    {
+      "path": "aggregate_outputs/faers_teicoplanin_context_core_year_v0_20.csv",
+      "bytes": 1059,
+      "sha256": "5fcf3a1580489a8283d684ccfbbdb8939d1a1119c0dba430b5c44b169592d7a8"
+    },
+    {
+      "path": "aggregate_outputs/breslow_day_variant_validation.csv",
+      "bytes": 744,
+      "sha256": "b967dc87e777f3a09fdec1ce1b7487c35526bc2f21221e24252d493693c71af0"
+    }
+  ],
+  "invariants": {
+    "context_rows": 12,
+    "faers_country_sumback": "country a/b/c/d totals equal the corresponding FAERS agent-context 2x2",
+    "chlorhexidine_burden_sumback": {
+      "a_target_suspect_core": 248,
+      "b_target_suspect_noncore": 1359,
+      "c_non_target_core": 7547,
+      "d_non_target_noncore": 357731
+    },
+    "country_strata": [
+      "GB",
+      "Non-GB observed",
+      "Missing OCCR_COUNTRY"
+    ],
+    "antibiotic_composition_scope": "GB and observed non-GB strata with the same antibiotic class denominators used in Table 4"
+  },
+  "scope_boundary": "This lock does not reconstruct historical raw ZIP provenance, DELETE application, or a licensed SMQ. Those items must not be represented as completed analyses."
+}

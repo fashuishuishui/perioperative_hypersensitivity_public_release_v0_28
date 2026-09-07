@@ -1,0 +1,2 @@
+﻿source_branch,coverage_start,coverage_end,demo_rows,unique_primaryid,unique_caseid,caseids_with_multiple_demo_rows,deleted_case_application_status
+official quarterly ASCII raw-source rebuild with per-ZIP SHA-256 manifest and DELETE ledger,2004q1,2025q4,23992742,23987341,20006982,2805910,DELETE identifiers were audited against CASEID and PRIMARYID before retained-report construction

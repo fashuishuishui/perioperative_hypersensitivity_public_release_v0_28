@@ -1,0 +1,5 @@
+﻿database,drug_class,role_definition,a,b,c,d,ror_no_correction,note
+FAERS,NMBA,primary suspect (PS) configured-alias reconstruction,681,2390,6229,360750,16.502024207193912,Exploratory role-specific reconstruction; external dictionary mapping remains unresolved.
+FAERS,antibiotic_anchor,primary suspect (PS) configured-alias reconstruction,595,3076,6315,360064,11.02902145386292,Exploratory role-specific reconstruction; external dictionary mapping remains unresolved.
+FAERS,chlorhexidine,primary suspect (PS) configured-alias reconstruction,39,163,6871,362977,12.639682385200357,Exploratory role-specific reconstruction; external dictionary mapping remains unresolved.
+FAERS,dye_anchor,primary suspect (PS) configured-alias reconstruction,9,85,6901,363055,5.570369170708423,Exploratory role-specific reconstruction; external dictionary mapping remains unresolved.

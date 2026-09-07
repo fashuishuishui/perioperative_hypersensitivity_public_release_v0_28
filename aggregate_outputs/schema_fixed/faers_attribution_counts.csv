@@ -1,0 +1,13 @@
+﻿database,event_group,event_n,drug_class,event_with_class_any_n,event_with_class_suspect_n
+FAERS,anaphylaxis_core,60570,NMBA,3779,3206
+FAERS,anaphylaxis_core,60570,antibiotic_anchor,8141,7076
+FAERS,anaphylaxis_core,60570,chlorhexidine,556,430
+FAERS,anaphylaxis_core,60570,dye_anchor,151,140
+FAERS,periop_hypersensitivity_broad,359189,NMBA,4722,3930
+FAERS,periop_hypersensitivity_broad,359189,antibiotic_anchor,21944,17790
+FAERS,periop_hypersensitivity_broad,359189,chlorhexidine,5328,4743
+FAERS,periop_hypersensitivity_broad,359189,dye_anchor,203,181
+FAERS,kounis_takotsubo_probe,6837,NMBA,300,164
+FAERS,kounis_takotsubo_probe,6837,antibiotic_anchor,797,657
+FAERS,kounis_takotsubo_probe,6837,chlorhexidine,4,1
+FAERS,kounis_takotsubo_probe,6837,dye_anchor,6,3

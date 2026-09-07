@@ -1,0 +1,24 @@
+{
+  "build": "v0.23 display-only unit and sparse hardening",
+  "created_utc": "2026-07-20T07:00:29.331995+00:00",
+  "numeric_source": "canonical_agent_country_strata_v0_20.csv",
+  "numeric_source_sha256": "f320a7e3519fc85c2d37efd63940caddc11ea2e8542da1e0f7354e46d5add79e",
+  "output": "agent_country_strata_display_v0_23.csv",
+  "output_sha256": "0aa5204577e16829bf9731884b9c642ef2608cfc619d8a06ca8842d9130cffeb",
+  "rule": "sparse_display=1 when agent-present core a<5 or agent-present non-core c<5",
+  "sparse_rows": [
+    [
+      "cefazolin",
+      "GB",
+      2,
+      2
+    ],
+    [
+      "teicoplanin",
+      "Non-GB observed",
+      3,
+      108
+    ]
+  ],
+  "numeric_change": false
+}

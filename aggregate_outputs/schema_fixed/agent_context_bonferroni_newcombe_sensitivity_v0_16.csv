@@ -1,0 +1,13 @@
+﻿database,drug_class,agent,family_size,familywise_alpha,method,context_percentage_point_difference,bonferroni_newcombe_ci_low_pp,bonferroni_newcombe_ci_high_pp,includes_zero,sparse_agent_contrast
+FAERS,NMBA,rocuronium,12,0.05,post hoc Bonferroni familywise Newcombe method 10 sensitivity,10.586486919330373,7.317559394918927,13.81825018239074,0,0
+FAERS,NMBA,succinylcholine,12,0.05,post hoc Bonferroni familywise Newcombe method 10 sensitivity,-1.4278514164052432,-3.787633105179025,1.0980603835136789,1,0
+FAERS,antibiotic_anchor,cefazolin,12,0.05,post hoc Bonferroni familywise Newcombe method 10 sensitivity,24.7248503807722,21.422774723222247,28.1011374321754,0,0
+FAERS,antibiotic_anchor,teicoplanin,12,0.05,post hoc Bonferroni familywise Newcombe method 10 sensitivity,0.7905003102027544,-0.25372914104654054,2.186283637848765,1,0
+Canada,NMBA,rocuronium,12,0.05,post hoc Bonferroni familywise Newcombe method 10 sensitivity,39.08809207613988,17.445785620878205,50.867154222160806,0,0
+Canada,NMBA,succinylcholine,12,0.05,post hoc Bonferroni familywise Newcombe method 10 sensitivity,-27.534307215582114,-39.42015153573143,-6.1283416618432724,0,0
+Canada,antibiotic_anchor,cefazolin,12,0.05,post hoc Bonferroni familywise Newcombe method 10 sensitivity,38.65127856981218,20.31901077092465,55.45260161847272,0,0
+Canada,antibiotic_anchor,teicoplanin,12,0.05,post hoc Bonferroni familywise Newcombe method 10 sensitivity,0.0,-1.6445425574722887,11.528927046242341,1,1
+JADER,NMBA,rocuronium,12,0.05,post hoc Bonferroni familywise Newcombe method 10 sensitivity,18.135049373653178,13.892100074887637,22.188064033479314,0,0
+JADER,NMBA,succinylcholine,12,0.05,post hoc Bonferroni familywise Newcombe method 10 sensitivity,-4.196168509791849,-6.269654979274968,-2.1547383080927176,0,0
+JADER,antibiotic_anchor,cefazolin,12,0.05,post hoc Bonferroni familywise Newcombe method 10 sensitivity,47.41292146424002,40.62657893740999,53.40226537039114,0,0
+JADER,antibiotic_anchor,teicoplanin,12,0.05,post hoc Bonferroni familywise Newcombe method 10 sensitivity,-7.6900458090875325,-10.547244904441827,-4.985615686730541,0,1

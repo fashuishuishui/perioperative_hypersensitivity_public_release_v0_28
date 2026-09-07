@@ -1,0 +1,25 @@
+﻿database,drug_class,outcome_group,role_profile,report_n
+FAERS,NMBA,non-core,PS present,2388
+FAERS,NMBA,non-core,SS present without PS,6242
+FAERS,NMBA,non-core,suspect class hit without reproduced PS/SS alias row,0
+FAERS,NMBA,core,PS present,681
+FAERS,NMBA,core,SS present without PS,1779
+FAERS,NMBA,core,suspect class hit without reproduced PS/SS alias row,0
+FAERS,antibiotic_anchor,non-core,PS present,3075
+FAERS,antibiotic_anchor,non-core,SS present without PS,7413
+FAERS,antibiotic_anchor,non-core,suspect class hit without reproduced PS/SS alias row,41
+FAERS,antibiotic_anchor,core,PS present,594
+FAERS,antibiotic_anchor,core,SS present without PS,1305
+FAERS,antibiotic_anchor,core,suspect class hit without reproduced PS/SS alias row,8
+FAERS,chlorhexidine,non-core,PS present,162
+FAERS,chlorhexidine,non-core,SS present without PS,1235
+FAERS,chlorhexidine,non-core,suspect class hit without reproduced PS/SS alias row,0
+FAERS,chlorhexidine,core,PS present,39
+FAERS,chlorhexidine,core,SS present without PS,174
+FAERS,chlorhexidine,core,suspect class hit without reproduced PS/SS alias row,0
+FAERS,dye_anchor,non-core,PS present,85
+FAERS,dye_anchor,non-core,SS present without PS,476
+FAERS,dye_anchor,non-core,suspect class hit without reproduced PS/SS alias row,0
+FAERS,dye_anchor,core,PS present,9
+FAERS,dye_anchor,core,SS present without PS,70
+FAERS,dye_anchor,core,suspect class hit without reproduced PS/SS alias row,0

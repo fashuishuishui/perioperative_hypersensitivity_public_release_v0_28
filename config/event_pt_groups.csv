@@ -1,0 +1,17 @@
+event_group,analysis_role,concept,faers_canada_pt,jader_pt_ja,include_in_primary_analysis,notes
+anaphylaxis_core,primary,Anaphylactic reaction,Anaphylactic reaction,アナフィラキシー反応,yes,Exact PT preferred.
+anaphylaxis_core,primary,Anaphylactic shock,Anaphylactic shock,アナフィラキシーショック,yes,Exact PT preferred.
+anaphylaxis_core,primary,Anaphylaxis,Anaphylaxis,アナフィラキシー,yes,Exact PT preferred.
+periop_hypersensitivity_broad,secondary,Anaphylactic reaction,Anaphylactic reaction,アナフィラキシー反応,no,Core term included in broad sensitivity.
+periop_hypersensitivity_broad,secondary,Anaphylactic shock,Anaphylactic shock,アナフィラキシーショック,no,Core term included in broad sensitivity.
+periop_hypersensitivity_broad,secondary,Anaphylaxis,Anaphylaxis,アナフィラキシー,no,Core term included in broad sensitivity.
+periop_hypersensitivity_broad,secondary,Bronchospasm,Bronchospasm,気管支痙攣,no,Broad sensitivity; not a standalone primary outcome.
+periop_hypersensitivity_broad,secondary,Hypersensitivity,Hypersensitivity,過敏症,no,Broad sensitivity; may be nonspecific.
+periop_hypersensitivity_broad,secondary,Type I hypersensitivity,Type I hypersensitivity,,no,Use only where exact PT exists.
+periop_hypersensitivity_broad,secondary,Urticaria,Urticaria,蕁麻疹,no,Broad sensitivity.
+periop_hypersensitivity_broad,secondary,Angioedema,Angioedema,血管浮腫,no,Broad sensitivity.
+periop_hypersensitivity_broad,secondary,Laryngeal oedema,Laryngeal oedema,喉頭浮腫,no,Use British spelling where source database uses it.
+periop_hypersensitivity_broad,secondary,Laryngeal edema,Laryngeal edema,,no,US spelling sensitivity.
+kounis_takotsubo_probe,exploratory,Kounis syndrome,Kounis syndrome,コーニス症候群,no,Exploratory only.
+kounis_takotsubo_probe,exploratory,Stress cardiomyopathy,Stress cardiomyopathy,ストレス心筋症,no,Exploratory only.
+kounis_takotsubo_probe,exploratory,Takotsubo cardiomyopathy,Takotsubo cardiomyopathy,たこつぼ心筋症,no,Exploratory only.

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Perioperative anaphylaxis pharmacovigilance audit"
+message: "If you use this repository, please cite the associated Drug Safety manuscript and the archived release."
+type: software
+authors:
+  - family-names: Wang
+    given-names: Zheyuan
+  - family-names: Xu
+    given-names: Wangdong
+  - family-names: Wang
+    given-names: Chen
+  - family-names: Shen
+    given-names: Mengting
+  - family-names: Huang
+    given-names: Yaqin
+  - family-names: Sun
+    given-names: Jianliang
+    affiliation: "The Fourth School of Clinical Medicine, Zhejiang Chinese Medical University; Affiliated Hangzhou First People's Hospital, Westlake University School of Medicine"
+    email: jxmzsjl@163.com
+date-released: 2026-09-07
+license: MIT
