@@ -19,3 +19,8 @@ authors:
     email: jxmzsjl@163.com
 date-released: 2026-09-07
 license: MIT
+repository-code: https://github.com/fashuishuishui/perioperative_hypersensitivity_public_release_v0_28
+url: https://doi.org/10.5281/zenodo.22671893
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22671893

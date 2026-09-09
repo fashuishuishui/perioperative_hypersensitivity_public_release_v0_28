@@ -10,7 +10,8 @@ The study asks what an agent-level suspected-drug contrast in a spontaneous-repo
 - Canada Vigilance and JADER were rerun from frozen local extracts after identifier and linkage audits. Their source-provenance boundary is explicitly recorded in the manuscript and supplement.
 - The canonical aggregate output lock is `aggregate_outputs/schema_fixed/canonical_artifact_lock_v0_26.json` and reads `"result": "passed"` for the released analysis branch.
 - This repository contains only code, bounded project mappings, aggregate outputs, figures, and manifests. It does not contain raw reports, SQLite databases, or licensed MedDRA/SMQ content.
-- The archived release DOI will be recorded here after the public GitHub release is connected to Zenodo.
+- Code repository: https://github.com/fashuishuishui/perioperative_hypersensitivity_public_release_v0_28
+- Archived release DOI: https://doi.org/10.5281/zenodo.22671893
 
 ## Repository layout
 
