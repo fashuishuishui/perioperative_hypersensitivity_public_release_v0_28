@@ -1,7 +1,12 @@
 cff-version: 1.2.0
-title: "Perioperative anaphylaxis pharmacovigilance audit"
-message: "If you use this repository, please cite the associated Drug Safety manuscript and the archived release."
+title: "Background dependence of within-class disproportionality in perioperative anaphylaxis reports: a three-database methodological case study"
+message: "Please cite the v1.0 software tag or its commit; cite the accompanying manuscript when available. No current Zenodo DOI is assigned in this metadata."
 type: software
+version: "1.0"
+date-released: 2026-10-18
+license: MIT
+repository-code: "https://github.com/fashuishuishui/perioperative_hypersensitivity_public_release_v0_28"
+url: "https://github.com/fashuishuishui/perioperative_hypersensitivity_public_release_v0_28/tree/v1.0"
 authors:
   - family-names: Wang
     given-names: Zheyuan
@@ -15,12 +20,3 @@ authors:
     given-names: Yaqin
   - family-names: Sun
     given-names: Jianliang
-    affiliation: "The Fourth School of Clinical Medicine, Zhejiang Chinese Medical University; Affiliated Hangzhou First People's Hospital, Westlake University School of Medicine"
-    email: jxmzsjl@163.com
-date-released: 2026-09-07
-license: MIT
-repository-code: https://github.com/fashuishuishui/perioperative_hypersensitivity_public_release_v0_28
-url: https://doi.org/10.5281/zenodo.22671893
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.22671893

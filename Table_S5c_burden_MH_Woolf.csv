@@ -1,0 +1,5 @@
+﻿agent,crude_ror,MH_descriptive_ror,Woolf_Q,df,p,nonzero_strata_n,caution
+rocuronium,1.38071004993,1.35135617457,57.8546417713,3,1.68831850459e-12,4,exploratory heterogeneity; MH not causal adjustment; sparse strata limit asymptotics
+succinylcholine,0.892063469935,0.848208905482,24.7054381989,3,1.77924819741e-05,4,exploratory heterogeneity; MH not causal adjustment; sparse strata limit asymptotics
+cefazolin,3.92079872625,2.97200620275,35.6778351842,3,8.75978928173e-08,4,exploratory heterogeneity; MH not causal adjustment; sparse strata limit asymptotics
+teicoplanin,1.31623269998,1.64749426822,5.96433286318,3,0.11335846204,4,exploratory heterogeneity; MH not causal adjustment; sparse strata limit asymptotics

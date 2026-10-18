@@ -1,0 +1,5 @@
+﻿agent,context_core_n,complete_fingerprint_n,incomplete_n,strict_unique_n,loose_unique_patterns_n,distinct_senders_n,distinct_caseids_n,full_event_date_n,age_sex_country_complete_n
+rocuronium,1460,909,551,615,1026,98,1460,1064,1229
+succinylcholine,457,311,146,228,351,65,457,402,340
+cefazolin,814,440,374,287,556,95,814,553,633
+teicoplanin,66,36,30,21,37,30,66,58,41

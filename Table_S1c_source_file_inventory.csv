@@ -1,0 +1,7 @@
+﻿database,file,bytes,encoding,source_label
+Canada,reactions.txt,823170413,UTF-8 dollar-delimited,coverage through 2026-05-31
+Canada,report_drug.txt,1084071359,UTF-8 dollar-delimited,coverage through 2026-05-31
+Canada,reports.txt,464811730,UTF-8 dollar-delimited,coverage through 2026-05-31
+JADER,demo202609.csv,76028314,CP932 CSV,September 2026 release
+JADER,drug202609.csv,525427895,CP932 CSV,September 2026 release
+JADER,reac202609.csv,75750893,CP932 CSV,September 2026 release

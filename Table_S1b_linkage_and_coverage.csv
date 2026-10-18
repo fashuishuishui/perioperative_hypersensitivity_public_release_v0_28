@@ -1,0 +1,3 @@
+﻿database,drug_rows,unlinked_drug_rows,nonlatest_drug_rows,reaction_rows,unlinked_reaction_rows,nonlatest_reaction_rows,observed_window,terminology
+Canada,5744475,0,0,4948993,0,0,1965-01-01 to 2026-05-31 first received; complete,source reaction v29.0; 167 blank version rows
+JADER,5038223,0,0,1751879,0,0,2004 Q1–2026 Q1 report-quarter labels,native Japanese source terms; no licensed official SMQ reconstruction

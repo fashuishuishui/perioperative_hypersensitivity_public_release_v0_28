@@ -1,0 +1,5 @@
+﻿database,agent,crude_ror,MH_descriptive_ror,Woolf_Q,df,p,nonzero_strata_n,caution
+JADER,rocuronium,4.24247948952,4.08004961984,2.77092998779,3,0.428307742367,4,exploratory; native source drug-sequence count; sparse support limits asymptotics
+JADER,succinylcholine,0.187070225784,0.191047128204,1.31727595852,2,0.517555776353,3,exploratory; native source drug-sequence count; sparse support limits asymptotics
+JADER,cefazolin,8.47051798776,6.54846809805,12.3938500553,3,0.00614886453461,4,exploratory; native source drug-sequence count; sparse support limits asymptotics
+JADER,teicoplanin,,,0,0,,1,exploratory; native source drug-sequence count; sparse support limits asymptotics

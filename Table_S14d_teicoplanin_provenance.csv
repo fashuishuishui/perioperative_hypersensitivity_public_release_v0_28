@@ -1,0 +1,53 @@
+﻿dimension,value,report_n,parent_n
+receipt_year,2024,11,66
+receipt_year,2016,9,66
+receipt_year,2019,8,66
+receipt_year,2018,7,66
+receipt_year,2011,7,66
+receipt_year,2020,5,66
+receipt_year,2022,4,66
+receipt_year,2015,4,66
+receipt_year,2023,3,66
+receipt_year,2025,3,66
+receipt_year,2021,3,66
+receipt_year,2017,1,66
+receipt_year,2013,1,66
+country,GB,55,66
+country,MISSING,7,66
+country,FR,1,66
+country,AU,1,66
+country,JP,1,66
+country,ES,1,66
+rpt_cod,EXP,66,66
+mfr_sndr,BAUSCH AND LOMB,6,66
+mfr_sndr,PFIZER,6,66
+mfr_sndr,AUROBINDO,5,66
+mfr_sndr,TEVA,5,66
+mfr_sndr,MYLAN,4,66
+mfr_sndr,ABBVIE,4,66
+mfr_sndr,WATSON,3,66
+mfr_sndr,BIODELIVERY SCIENCES INTERNATIONAL,3,66
+mfr_sndr,FRESENIUS KABI,3,66
+mfr_sndr,BAXTER,3,66
+mfr_sndr,GLAXOSMITHKLINE,2,66
+mfr_sndr,ASPEN,2,66
+mfr_sndr,SANDOZ,2,66
+mfr_sndr,NOVARTIS,2,66
+mfr_sndr,HOSPIRA,1,66
+mfr_sndr,B BRAUN,1,66
+mfr_sndr,ALCON,1,66
+mfr_sndr,ALKEM,1,66
+mfr_sndr,MERCK,1,66
+mfr_sndr,ASTRAZENECA,1,66
+mfr_sndr,EMCURE,1,66
+mfr_sndr,MALLINCKRODT,1,66
+mfr_sndr,BECTON DICKINSON,1,66
+mfr_sndr,Haleon PLC,1,66
+mfr_sndr,AZPRODUW00,1,66
+mfr_sndr,"SANDOZ,INC.",1,66
+mfr_sndr,SCHERING-PLOUGH CORPORATION,1,66
+mfr_sndr,"HOSPIRA, INC.",1,66
+mfr_sndr,DEXCEL PHARMA LTD.,1,66
+mfr_sndr,ACTAVIS SOUTH ATLANTIC LLC,1,66
+literature_reference_present,False,63,66
+literature_reference_present,True,3,66

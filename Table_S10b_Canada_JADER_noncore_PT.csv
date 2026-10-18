@@ -1,0 +1,71 @@
+﻿database,agent,rank,source_term,report_n,noncore_target_report_n
+Canada,rocuronium,1,Hypotension,19,128
+Canada,rocuronium,2,Drug ineffective,15,128
+Canada,rocuronium,3,Stress cardiomyopathy,14,128
+Canada,rocuronium,4,Death,14,128
+Canada,rocuronium,5,Drug interaction,10,128
+Canada,rocuronium,6,Blood potassium increased,10,128
+Canada,rocuronium,7,Blood lactate dehydrogenase increased,10,128
+Canada,rocuronium,8,Creatine kinase increased,10,128
+Canada,rocuronium,9,Amylase increased,10,128
+Canada,rocuronium,10,Troponin increased,10,128
+Canada,succinylcholine,1,Drug ineffective,21,114
+Canada,succinylcholine,2,Hypotension,19,114
+Canada,succinylcholine,3,Maternal exposure during pregnancy,18,114
+Canada,succinylcholine,4,Renal impairment,16,114
+Canada,succinylcholine,5,Diabetes insipidus,16,114
+Canada,succinylcholine,6,Foetal death,15,114
+Canada,succinylcholine,7,Left ventricular dysfunction,15,114
+Canada,succinylcholine,8,Hyperthermia malignant,13,114
+Canada,succinylcholine,9,Encephalopathy,12,114
+Canada,succinylcholine,10,Loss of consciousness,11,114
+Canada,cefazolin,1,Urticaria,18,112
+Canada,cefazolin,2,Hypotension,17,112
+Canada,cefazolin,3,Clostridium difficile colitis,15,112
+Canada,cefazolin,4,Vitamin K deficiency,10,112
+Canada,cefazolin,5,Rash,9,112
+Canada,cefazolin,6,Pruritus,8,112
+Canada,cefazolin,7,Coagulopathy,8,112
+Canada,cefazolin,8,Clostridium test positive,8,112
+Canada,cefazolin,9,Erythema,7,112
+Canada,cefazolin,10,Generalised tonic-clonic seizure,7,112
+JADER,rocuronium,1,血圧低下,86,1097
+JADER,rocuronium,2,低血圧,61,1097
+JADER,rocuronium,3,心停止,50,1097
+JADER,rocuronium,4,悪性高熱,49,1097
+JADER,rocuronium,5,神経筋ブロック遷延,44,1097
+JADER,rocuronium,6,横紋筋融解症,42,1097
+JADER,rocuronium,7,再発神経筋ブロック,41,1097
+JADER,rocuronium,8,徐脈,40,1097
+JADER,rocuronium,9,アナフィラキシー様反応,35,1097
+JADER,rocuronium,10,呼吸停止,30,1097
+JADER,succinylcholine,1,悪性高熱,34,73
+JADER,succinylcholine,2,横紋筋融解症,10,73
+JADER,succinylcholine,3,新生児仮死,3,73
+JADER,succinylcholine,4,心室性頻脈,3,73
+JADER,succinylcholine,5,血圧低下,3,73
+JADER,succinylcholine,6,喉頭痙攣,2,73
+JADER,succinylcholine,7,クレアチンキナーゼ増加,2,73
+JADER,succinylcholine,8,急性腎障害,2,73
+JADER,succinylcholine,9,ミオグロビン血症,2,73
+JADER,succinylcholine,10,無呼吸,2,73
+JADER,cefazolin,1,肝機能異常,40,319
+JADER,cefazolin,2,血圧低下,34,319
+JADER,cefazolin,3,発熱,27,319
+JADER,cefazolin,4,中毒性表皮壊死融解症,25,319
+JADER,cefazolin,5,薬疹,19,319
+JADER,cefazolin,6,好酸球増加と全身症状を伴う薬物反応,16,319
+JADER,cefazolin,7,アナフィラキシー様反応,13,319
+JADER,cefazolin,8,発疹,12,319
+JADER,cefazolin,9,ショック,12,319
+JADER,cefazolin,10,紅斑,11,319
+JADER,teicoplanin,1,中毒性表皮壊死融解症,11,79
+JADER,teicoplanin,2,肝障害,8,79
+JADER,teicoplanin,3,下痢,7,79
+JADER,teicoplanin,4,肝機能異常,6,79
+JADER,teicoplanin,5,播種性血管内凝固,5,79
+JADER,teicoplanin,6,急性膵炎,5,79
+JADER,teicoplanin,7,麻痺性イレウス,5,79
+JADER,teicoplanin,8,高血糖,5,79
+JADER,teicoplanin,9,血栓性微小血管症,5,79
+JADER,teicoplanin,10,アデノウイルス感染,5,79

@@ -1,0 +1,5 @@
+﻿database,drug_class,agent,setting,diagnostic,a,b,c,d,class_core_n,class_noncore_n,sparse,core_share,noncore_share,difference_pp,ror,ror_ci_low,ror_ci_high,difference_ci_low,difference_ci_high
+Canada,NMBA,rocuronium,medication_context,exclude_pharmacologic_competitors,42,7,113,134,49,247,False,0.857142857143,0.457489878543,39.96529786,7.11504424779,3.0765738296,16.4546204485,26.1040590699,49.3940089248
+Canada,NMBA,succinylcholine,medication_context,exclude_pharmacologic_competitors,6,43,99,148,49,247,False,0.122448979592,0.400809716599,-27.8360737007,0.208597603946,0.0855542560755,0.50860076831,-36.8388073536,-14.4581029912
+JADER,NMBA,rocuronium,medication_context,exclude_pharmacologic_competitors,948,73,999,284,1021,1283,False,0.928501469148,0.778643803585,14.9857665563,3.69180139043,2.81229175841,4.84636683432,12.1874158556,17.7366345953
+JADER,NMBA,succinylcholine,medication_context,exclude_pharmacologic_competitors,10,1011,37,1246,1021,1283,False,0.00979431929481,0.028838659392,-1.90443400972,0.333092736654,0.164838121867,0.673089270582,-3.05997789902,-0.773913128016

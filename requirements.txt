@@ -1,0 +1,6 @@
+# Recorded analysis environment: Python 3.12.14
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+# Figure regeneration only
+matplotlib==3.11.2

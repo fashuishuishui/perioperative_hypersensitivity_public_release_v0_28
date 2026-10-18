@@ -1,0 +1,9 @@
+﻿agent,setting,crude_ror,fixed_mix_core_share,fixed_mix_noncore_share,fixed_mix_ror,uncertainty
+rocuronium,baseline,1.53740623904,0.548115506003,0.463242560334,1.40544633869,descriptive; no CI; no causal adjustment
+succinylcholine,baseline,0.637323995206,0.153122834755,0.208370041848,0.686920503885,descriptive; no CI; no causal adjustment
+cefazolin,baseline,5.40923843256,0.14263628802,0.0286827102393,5.63385757851,descriptive; no CI; no causal adjustment
+teicoplanin,baseline,1.11675989097,0.0110861213717,0.014005180172,0.78923636937,descriptive; no CI; no causal adjustment
+rocuronium,medication_context,1.38071004993,0.520624021641,0.450100956448,1.32684735638,descriptive; no CI; no causal adjustment
+succinylcholine,medication_context,0.892063469935,0.168406447741,0.181165144732,0.915312255824,descriptive; no CI; no causal adjustment
+cefazolin,medication_context,3.92079872625,0.407348672254,0.138173222215,4.28709533947,descriptive; no CI; no causal adjustment
+teicoplanin,medication_context,1.31623269998,0.0214002490447,0.0255095197136,0.835389563914,descriptive; no CI; no causal adjustment

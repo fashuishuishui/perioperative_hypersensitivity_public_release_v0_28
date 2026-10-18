@@ -1,0 +1,5 @@
+﻿drug_class,outcome,reports,complete_fingerprint_n,incomplete_n,retained_n,removed_n
+NMBA,core,2762,1797,965,2138,624
+NMBA,noncore,8557,2585,5972,7273,1284
+antibiotic_anchor,core,2096,1130,966,1623,473
+antibiotic_anchor,noncore,10454,4005,6449,8308,2146

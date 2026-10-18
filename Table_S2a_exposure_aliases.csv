@@ -1,0 +1,160 @@
+﻿drug_class,analysis_role,generic_or_group,alias,database_scope,match_type,primary_culprit_class,notes
+NMBA,primary,rocuronium,rocuronium,FAERS,case-insensitive source prefix,yes,
+NMBA,primary,rocuronium,rocuronium,Canada,NFKC/casefold token-boundary,yes,
+NMBA,primary,rocuronium,zemuron,FAERS,case-insensitive source prefix,yes,Brand alias.
+NMBA,primary,rocuronium,zemuron,Canada,NFKC/casefold token-boundary,yes,Brand alias.
+NMBA,primary,rocuronium,esmeron,FAERS,case-insensitive source prefix,yes,Brand alias.
+NMBA,primary,rocuronium,esmeron,Canada,NFKC/casefold token-boundary,yes,Brand alias.
+NMBA,primary,rocuronium,ロクロニウム,JADER,NFKC source-language substring,yes,
+NMBA,primary,rocuronium,エスラックス,JADER,NFKC source-language substring,yes,"Japanese rocuronium brand verified against PMDA product record, 2026-10-18."
+NMBA,primary,succinylcholine,succinylcholine,FAERS,case-insensitive source prefix,yes,
+NMBA,primary,succinylcholine,succinylcholine,Canada,NFKC/casefold token-boundary,yes,
+NMBA,primary,succinylcholine,suxamethonium,FAERS,case-insensitive source prefix,yes,
+NMBA,primary,succinylcholine,suxamethonium,Canada,NFKC/casefold token-boundary,yes,
+NMBA,primary,succinylcholine,scoline,FAERS,case-insensitive source prefix,yes,Brand alias.
+NMBA,primary,succinylcholine,scoline,Canada,NFKC/casefold token-boundary,yes,Brand alias.
+NMBA,primary,succinylcholine,スキサメトニウム,JADER,NFKC source-language substring,yes,
+NMBA,primary,succinylcholine,サクシニルコリン,JADER,NFKC source-language substring,yes,
+NMBA,primary,cisatracurium,cisatracurium,FAERS,case-insensitive source prefix,yes,
+NMBA,primary,cisatracurium,cisatracurium,Canada,NFKC/casefold token-boundary,yes,
+NMBA,primary,cisatracurium,nimbex,FAERS,case-insensitive source prefix,yes,Brand alias.
+NMBA,primary,cisatracurium,nimbex,Canada,NFKC/casefold token-boundary,yes,Brand alias.
+NMBA,primary,cisatracurium,シスアトラクリウム,JADER,NFKC source-language substring,yes,
+NMBA,primary,vecuronium,vecuronium,FAERS,case-insensitive source prefix,yes,
+NMBA,primary,vecuronium,vecuronium,Canada,NFKC/casefold token-boundary,yes,
+NMBA,primary,vecuronium,norcuron,FAERS,case-insensitive source prefix,yes,Brand alias.
+NMBA,primary,vecuronium,norcuron,Canada,NFKC/casefold token-boundary,yes,Brand alias.
+NMBA,primary,vecuronium,ベクロニウム,JADER,NFKC source-language substring,yes,
+NMBA,primary,atracurium,atracurium,FAERS,case-insensitive source prefix,yes,
+NMBA,primary,atracurium,atracurium,Canada,NFKC/casefold token-boundary,yes,
+NMBA,primary,atracurium,tracrium,FAERS,case-insensitive source prefix,yes,Brand alias.
+NMBA,primary,atracurium,tracrium,Canada,NFKC/casefold token-boundary,yes,Brand alias.
+NMBA,primary,atracurium,アトラクリウム,JADER,NFKC source-language substring,yes,
+NMBA,primary,pancuronium,pancuronium,FAERS,case-insensitive source prefix,yes,
+NMBA,primary,pancuronium,pancuronium,Canada,NFKC/casefold token-boundary,yes,
+NMBA,primary,pancuronium,パンクロニウム,JADER,NFKC source-language substring,yes,
+NMBA,primary,mivacurium,mivacurium,FAERS,case-insensitive source prefix,yes,
+NMBA,primary,mivacurium,mivacurium,Canada,NFKC/casefold token-boundary,yes,
+NMBA,primary,mivacurium,ミバクリウム,JADER,NFKC source-language substring,yes,
+antibiotic_anchor,primary,cefazolin,cefazolin,FAERS,case-insensitive source prefix,yes,
+antibiotic_anchor,primary,cefazolin,cefazolin,Canada,NFKC/casefold token-boundary,yes,
+antibiotic_anchor,primary,cefazolin,cephazolin,FAERS,case-insensitive source prefix,yes,Alternative spelling.
+antibiotic_anchor,primary,cefazolin,cephazolin,Canada,NFKC/casefold token-boundary,yes,Alternative spelling.
+antibiotic_anchor,primary,cefazolin,セファゾリン,JADER,NFKC source-language substring,yes,
+antibiotic_anchor,primary,cefuroxime,cefuroxime,FAERS,case-insensitive source prefix,yes,
+antibiotic_anchor,primary,cefuroxime,cefuroxime,Canada,NFKC/casefold token-boundary,yes,
+antibiotic_anchor,primary,cefuroxime,セフロキシム,JADER,NFKC source-language substring,yes,
+antibiotic_anchor,primary,ceftriaxone,ceftriaxone,FAERS,case-insensitive source prefix,yes,
+antibiotic_anchor,primary,ceftriaxone,ceftriaxone,Canada,NFKC/casefold token-boundary,yes,
+antibiotic_anchor,primary,ceftriaxone,セフトリアキソン,JADER,NFKC source-language substring,yes,
+antibiotic_anchor,primary,teicoplanin,teicoplanin,FAERS,case-insensitive source prefix,yes,
+antibiotic_anchor,primary,teicoplanin,teicoplanin,Canada,NFKC/casefold token-boundary,yes,
+antibiotic_anchor,primary,teicoplanin,テイコプラニン,JADER,NFKC source-language substring,yes,
+antibiotic_anchor,primary,vancomycin,vancomycin,FAERS,case-insensitive source prefix,yes,
+antibiotic_anchor,primary,vancomycin,vancomycin,Canada,NFKC/casefold token-boundary,yes,
+antibiotic_anchor,primary,vancomycin,バンコマイシン,JADER,NFKC source-language substring,yes,
+antibiotic_anchor,primary,amoxicillin,amoxicillin,FAERS,case-insensitive source prefix,yes,
+antibiotic_anchor,primary,amoxicillin,amoxicillin,Canada,NFKC/casefold token-boundary,yes,
+antibiotic_anchor,primary,amoxicillin,アモキシシリン,JADER,NFKC source-language substring,yes,
+antibiotic_anchor,primary,amoxicillin_clavulanate,co-amoxiclav,FAERS,case-insensitive source prefix,yes,
+antibiotic_anchor,primary,amoxicillin_clavulanate,co-amoxiclav,Canada,NFKC/casefold token-boundary,yes,
+antibiotic_anchor,primary,amoxicillin_clavulanate,amoxicillin clavulanate,FAERS,case-insensitive source prefix,yes,
+antibiotic_anchor,primary,amoxicillin_clavulanate,amoxicillin clavulanate,Canada,NFKC/casefold token-boundary,yes,
+antibiotic_anchor,primary,amoxicillin_clavulanate,クラブラン酸,JADER,NFKC source-language substring,yes,
+antibiotic_anchor,primary,gentamicin,gentamicin,FAERS,case-insensitive source prefix,yes,
+antibiotic_anchor,primary,gentamicin,gentamicin,Canada,NFKC/casefold token-boundary,yes,
+antibiotic_anchor,primary,gentamicin,ゲンタマイシン,JADER,NFKC source-language substring,yes,
+antibiotic_anchor,primary,clindamycin,clindamycin,FAERS,case-insensitive source prefix,yes,
+antibiotic_anchor,primary,clindamycin,clindamycin,Canada,NFKC/casefold token-boundary,yes,
+antibiotic_anchor,primary,clindamycin,クリンダマイシン,JADER,NFKC source-language substring,yes,
+antibiotic_anchor,primary,metronidazole,metronidazole,FAERS,case-insensitive source prefix,yes,
+antibiotic_anchor,primary,metronidazole,metronidazole,Canada,NFKC/casefold token-boundary,yes,
+antibiotic_anchor,primary,metronidazole,メトロニダゾール,JADER,NFKC source-language substring,yes,
+antibiotic_anchor,primary,piperacillin_tazobactam,piperacillin,FAERS,case-insensitive source prefix,yes,
+antibiotic_anchor,primary,piperacillin_tazobactam,piperacillin,Canada,NFKC/casefold token-boundary,yes,
+antibiotic_anchor,primary,piperacillin_tazobactam,tazobactam,FAERS,case-insensitive source prefix,yes,
+antibiotic_anchor,primary,piperacillin_tazobactam,tazobactam,Canada,NFKC/casefold token-boundary,yes,
+antibiotic_anchor,primary,piperacillin_tazobactam,ピペラシリン,JADER,NFKC source-language substring,yes,
+antibiotic_anchor,primary,piperacillin_tazobactam,タゾバクタム,JADER,NFKC source-language substring,yes,
+chlorhexidine,primary,chlorhexidine,chlorhexidine,FAERS,case-insensitive source prefix,yes,
+chlorhexidine,primary,chlorhexidine,chlorhexidine,Canada,NFKC/casefold token-boundary,yes,
+chlorhexidine,primary,chlorhexidine,hibiscrub,FAERS,case-insensitive source prefix,yes,Product alias.
+chlorhexidine,primary,chlorhexidine,hibiscrub,Canada,NFKC/casefold token-boundary,yes,Product alias.
+chlorhexidine,primary,chlorhexidine,chloraprep,FAERS,case-insensitive source prefix,yes,Product alias.
+chlorhexidine,primary,chlorhexidine,chloraprep,Canada,NFKC/casefold token-boundary,yes,Product alias.
+chlorhexidine,primary,chlorhexidine,クロルヘキシジン,JADER,NFKC source-language substring,yes,
+dye_anchor,primary,patent_blue,patent blue,FAERS,case-insensitive source prefix,yes,
+dye_anchor,primary,patent_blue,patent blue,Canada,NFKC/casefold token-boundary,yes,
+dye_anchor,primary,patent_blue,パテントブルー,JADER,NFKC source-language substring,yes,
+dye_anchor,primary,isosulfan_blue,isosulfan blue,FAERS,case-insensitive source prefix,yes,
+dye_anchor,primary,isosulfan_blue,isosulfan blue,Canada,NFKC/casefold token-boundary,yes,
+dye_anchor,primary,methylene_blue,methylene blue,FAERS,case-insensitive source prefix,yes,
+dye_anchor,primary,methylene_blue,methylene blue,Canada,NFKC/casefold token-boundary,yes,
+dye_anchor,primary,methylene_blue,メチレンブルー,JADER,NFKC source-language substring,yes,
+dye_anchor,primary,indigo_carmine,indigo carmine,FAERS,case-insensitive source prefix,yes,
+dye_anchor,primary,indigo_carmine,indigo carmine,Canada,NFKC/casefold token-boundary,yes,
+dye_anchor,primary,indigo_carmine,インジゴカルミン,JADER,NFKC source-language substring,yes,
+dye_anchor,primary,indocyanine_green,indocyanine green,FAERS,case-insensitive source prefix,yes,
+dye_anchor,primary,indocyanine_green,indocyanine green,Canada,NFKC/casefold token-boundary,yes,
+dye_anchor,primary,indocyanine_green,インドシアニングリーン,JADER,NFKC source-language substring,yes,
+sedative_hypnotic,background,propofol,propofol,FAERS,case-insensitive source prefix,no,
+sedative_hypnotic,background,propofol,propofol,Canada,NFKC/casefold token-boundary,no,
+sedative_hypnotic,background,propofol,プロポフォール,JADER,NFKC source-language substring,no,
+sedative_hypnotic,background,midazolam,midazolam,FAERS,case-insensitive source prefix,no,
+sedative_hypnotic,background,midazolam,midazolam,Canada,NFKC/casefold token-boundary,no,
+sedative_hypnotic,background,midazolam,ミダゾラム,JADER,NFKC source-language substring,no,
+sedative_hypnotic,background,ketamine,ketamine,FAERS,case-insensitive source prefix,no,
+sedative_hypnotic,background,ketamine,ketamine,Canada,NFKC/casefold token-boundary,no,
+sedative_hypnotic,background,ketamine,ケタミン,JADER,NFKC source-language substring,no,
+opioid,background,fentanyl,fentanyl,FAERS,case-insensitive source prefix,no,
+opioid,background,fentanyl,fentanyl,Canada,NFKC/casefold token-boundary,no,
+opioid,background,fentanyl,フェンタニル,JADER,NFKC source-language substring,no,
+opioid,background,remifentanil,remifentanil,FAERS,case-insensitive source prefix,no,
+opioid,background,remifentanil,remifentanil,Canada,NFKC/casefold token-boundary,no,
+opioid,background,remifentanil,レミフェンタニル,JADER,NFKC source-language substring,no,
+volatile_anesthetic,background,sevoflurane,sevoflurane,FAERS,case-insensitive source prefix,no,
+volatile_anesthetic,background,sevoflurane,sevoflurane,Canada,NFKC/casefold token-boundary,no,
+volatile_anesthetic,background,sevoflurane,セボフルラン,JADER,NFKC source-language substring,no,
+volatile_anesthetic,background,desflurane,desflurane,FAERS,case-insensitive source prefix,no,
+volatile_anesthetic,background,desflurane,desflurane,Canada,NFKC/casefold token-boundary,no,
+volatile_anesthetic,background,desflurane,デスフルラン,JADER,NFKC source-language substring,no,
+volatile_anesthetic,background,isoflurane,isoflurane,FAERS,case-insensitive source prefix,no,
+volatile_anesthetic,background,isoflurane,isoflurane,Canada,NFKC/casefold token-boundary,no,
+volatile_anesthetic,background,isoflurane,イソフルラン,JADER,NFKC source-language substring,no,
+local_anesthetic,background,lidocaine,lidocaine,FAERS,case-insensitive source prefix,no,
+local_anesthetic,background,lidocaine,lidocaine,Canada,NFKC/casefold token-boundary,no,
+local_anesthetic,background,lidocaine,リドカイン,JADER,NFKC source-language substring,no,
+local_anesthetic,background,bupivacaine,bupivacaine,FAERS,case-insensitive source prefix,no,
+local_anesthetic,background,bupivacaine,bupivacaine,Canada,NFKC/casefold token-boundary,no,
+local_anesthetic,background,bupivacaine,ブピバカイン,JADER,NFKC source-language substring,no,
+local_anesthetic,background,ropivacaine,ropivacaine,FAERS,case-insensitive source prefix,no,
+local_anesthetic,background,ropivacaine,ropivacaine,Canada,NFKC/casefold token-boundary,no,
+local_anesthetic,background,ropivacaine,ロピバカイン,JADER,NFKC source-language substring,no,
+vasoactive_rescue,background,epinephrine,epinephrine,FAERS,case-insensitive source prefix,no,
+vasoactive_rescue,background,epinephrine,epinephrine,Canada,NFKC/casefold token-boundary,no,
+vasoactive_rescue,background,epinephrine,adrenaline,FAERS,case-insensitive source prefix,no,
+vasoactive_rescue,background,epinephrine,adrenaline,Canada,NFKC/casefold token-boundary,no,
+vasoactive_rescue,background,epinephrine,アドレナリン,JADER,NFKC source-language substring,no,
+vasoactive_rescue,background,norepinephrine,norepinephrine,FAERS,case-insensitive source prefix,no,
+vasoactive_rescue,background,norepinephrine,norepinephrine,Canada,NFKC/casefold token-boundary,no,
+vasoactive_rescue,background,norepinephrine,noradrenaline,FAERS,case-insensitive source prefix,no,
+vasoactive_rescue,background,norepinephrine,noradrenaline,Canada,NFKC/casefold token-boundary,no,
+vasoactive_rescue,background,norepinephrine,ノルアドレナリン,JADER,NFKC source-language substring,no,
+vasoactive_rescue,background,phenylephrine,phenylephrine,FAERS,case-insensitive source prefix,no,
+vasoactive_rescue,background,phenylephrine,phenylephrine,Canada,NFKC/casefold token-boundary,no,
+vasoactive_rescue,background,phenylephrine,フェニレフリン,JADER,NFKC source-language substring,no,
+vasoactive_rescue,background,ephedrine,ephedrine,FAERS,case-insensitive source prefix,no,
+vasoactive_rescue,background,ephedrine,ephedrine,Canada,NFKC/casefold token-boundary,no,
+vasoactive_rescue,background,ephedrine,エフェドリン,JADER,NFKC source-language substring,no,
+NMBA,primary,succinylcholine,anectine,FAERS,case-insensitive source prefix,yes,Brand-to-ingredient mapping verified from regulator/product label; accessed 2026-10-18.
+NMBA,primary,succinylcholine,anectine,Canada,NFKC/casefold token-boundary,yes,Brand-to-ingredient mapping verified from regulator/product label; accessed 2026-10-18.
+NMBA,primary,succinylcholine,quelicin,FAERS,case-insensitive source prefix,yes,Brand-to-ingredient mapping verified from regulator/product label; accessed 2026-10-18.
+NMBA,primary,succinylcholine,quelicin,Canada,NFKC/casefold token-boundary,yes,Brand-to-ingredient mapping verified from regulator/product label; accessed 2026-10-18.
+antibiotic_anchor,primary,cefazolin,ancef,FAERS,case-insensitive source prefix,yes,Brand-to-ingredient mapping verified from regulator/product label; accessed 2026-10-18.
+antibiotic_anchor,primary,cefazolin,ancef,Canada,NFKC/casefold token-boundary,yes,Brand-to-ingredient mapping verified from regulator/product label; accessed 2026-10-18.
+antibiotic_anchor,primary,teicoplanin,targocid,FAERS,case-insensitive source prefix,yes,Brand-to-ingredient mapping verified from regulator/product label; accessed 2026-10-18.
+antibiotic_anchor,primary,teicoplanin,targocid,Canada,NFKC/casefold token-boundary,yes,Brand-to-ingredient mapping verified from regulator/product label; accessed 2026-10-18.
+NMBA,primary,pancuronium,pavulon,FAERS,case-insensitive source prefix,yes,Brand-to-ingredient mapping verified from regulator/product label; accessed 2026-10-18.
+NMBA,primary,pancuronium,pavulon,Canada,NFKC/casefold token-boundary,yes,Brand-to-ingredient mapping verified from regulator/product label; accessed 2026-10-18.
+NMBA,primary,mivacurium,mivacron,FAERS,case-insensitive source prefix,yes,Brand-to-ingredient mapping verified from regulator/product label; accessed 2026-10-18.
+NMBA,primary,mivacurium,mivacron,Canada,NFKC/casefold token-boundary,yes,Brand-to-ingredient mapping verified from regulator/product label; accessed 2026-10-18.

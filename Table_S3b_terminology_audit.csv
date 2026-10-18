@@ -1,0 +1,6 @@
+﻿source_term,source_report_n,denominator_report_n,denominator,is_current_pt,parent_mapping_used,narrow_exact,narrow_after_source_rollup
+ANAPHYLAXIS,0,403565,all-role NMBA or antibiotic candidate reports with source reactions,False,True,False,True
+ANAPHYLACTIC REACTION,7022,403565,all-role NMBA or antibiotic candidate reports with source reactions,True,False,True,True
+ANAPHYLACTIC SHOCK,5255,403565,all-role NMBA or antibiotic candidate reports with source reactions,True,False,True,True
+ANAPHYLACTOID REACTION,340,403565,all-role NMBA or antibiotic candidate reports with source reactions,True,False,True,True
+ANAPHYLACTOID SHOCK,99,403565,all-role NMBA or antibiotic candidate reports with source reactions,True,False,True,True

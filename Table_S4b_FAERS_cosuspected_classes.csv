@@ -1,0 +1,7 @@
+﻿database,class_A,class_B,class_A_core_n,class_B_core_n,both_core_n
+FAERS,NMBA,antibiotic_anchor,3669,8030,1088
+FAERS,NMBA,chlorhexidine,3669,503,137
+FAERS,NMBA,dye_anchor,3669,152,47
+FAERS,antibiotic_anchor,chlorhexidine,8030,503,160
+FAERS,antibiotic_anchor,dye_anchor,8030,152,48
+FAERS,chlorhexidine,dye_anchor,503,152,10

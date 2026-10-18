@@ -1,0 +1,93 @@
+﻿file,bytes,purpose
+.gitignore,318,"Code, figure, configuration, version or documentation"
+ANALYSIS_MANIFEST.json,788,"Code, figure, configuration, version or documentation"
+CHANGELOG.md,1633,"Code, figure, configuration, version or documentation"
+CITATION.cff,920,"Code, figure, configuration, version or documentation"
+code/additional_composition_diagnostics.py,5541,"Code, figure, configuration, version or documentation"
+code/build_drug_event_flags.py,5586,"Code, figure, configuration, version or documentation"
+code/burden_PS_feasibility.py,1019,"Code, figure, configuration, version or documentation"
+code/context_dictionary_sensitivity.py,2289,"Code, figure, configuration, version or documentation"
+code/export_numbered_tables.py,3912,"Code, figure, configuration, version or documentation"
+code/fingerprint_and_burden.py,11249,"Code, figure, configuration, version or documentation"
+code/fingerprint_followup.py,1752,"Code, figure, configuration, version or documentation"
+code/generate_figures.py,15017,"Code, figure, configuration, version or documentation"
+code/prepare_faers_sources.py,27413,"Code, figure, configuration, version or documentation"
+code/rebuild_current_Canada_JADER.py,9710,"Code, figure, configuration, version or documentation"
+code/run_targeted_diagnostics.py,18517,"Code, figure, configuration, version or documentation"
+code/settings.py,506,"Code, figure, configuration, version or documentation"
+code/support/run_official_smq_sensitivity.py,2812,"Code, figure, configuration, version or documentation"
+code/supporting_diagnostics.py,8622,"Code, figure, configuration, version or documentation"
+code/verify_aggregate_results.py,1491,"Code, figure, configuration, version or documentation"
+config/drug_class_aliases.csv,8490,"Code, figure, configuration, version or documentation"
+config/event_pt_groups.csv,2910,"Code, figure, configuration, version or documentation"
+config/faers_DEMO_inventory.csv,27679,"Code, figure, configuration, version or documentation"
+config/faers_quarters.csv,8680,"Code, figure, configuration, version or documentation"
+config/paths.example.json,420,"Code, figure, configuration, version or documentation"
+figures/Fig1_workflow.pdf,21062,"Code, figure, configuration, version or documentation"
+figures/Fig1_workflow.png,222929,"Code, figure, configuration, version or documentation"
+figures/Fig1_workflow.svg,17553,"Code, figure, configuration, version or documentation"
+figures/Fig2_primary_contrasts.pdf,26330,"Code, figure, configuration, version or documentation"
+figures/Fig2_primary_contrasts.png,94444,"Code, figure, configuration, version or documentation"
+figures/Fig2_primary_contrasts.svg,36899,"Code, figure, configuration, version or documentation"
+figures/Fig3_diagnostics.pdf,40111,"Code, figure, configuration, version or documentation"
+figures/Fig3_diagnostics.png,189880,"Code, figure, configuration, version or documentation"
+figures/Fig3_diagnostics.svg,61357,"Code, figure, configuration, version or documentation"
+LICENSE,1089,"Code, figure, configuration, version or documentation"
+LICENSE_BOUNDARIES.md,1189,"Code, figure, configuration, version or documentation"
+README.md,4058,"Code, figure, configuration, version or documentation"
+README.txt,5418,"Code, figure, configuration, version or documentation"
+REPRODUCIBILITY.md,2542,"Code, figure, configuration, version or documentation"
+requirements.txt,141,"Code, figure, configuration, version or documentation"
+Table_S10a_FAERS_noncore_PT.csv,6381,Aggregate table/source dictionary
+Table_S10b_Canada_JADER_noncore_PT.csv,3348,Aggregate table/source dictionary
+Table_S11a_FAERS_pharmacologic_exclusions.csv,2016,Aggregate table/source dictionary
+Table_S11b_Canada_JADER_pharmacologic_exclusions.csv,1094,Aggregate table/source dictionary
+Table_S11c_FAERS_family_matches.csv,588,Aggregate table/source dictionary
+Table_S11d_Canada_JADER_family_matches.csv,515,Aggregate table/source dictionary
+Table_S12_FAERS_outcome_sensitivity.csv,4644,Aggregate table/source dictionary
+Table_S13a_country_strata.csv,5497,Aggregate table/source dictionary
+Table_S13b_fixed_country_mix.csv,1117,Aggregate table/source dictionary
+Table_S13c_geographic_overlap.csv,7782,Aggregate table/source dictionary
+Table_S14a_quarterly_field_coverage.csv,4521,Aggregate table/source dictionary
+Table_S14b_report_channels.csv,5319,Aggregate table/source dictionary
+Table_S14c_PS_only_channels.csv,2800,Aggregate table/source dictionary
+Table_S14d_teicoplanin_provenance.csv,1372,Aggregate table/source dictionary
+Table_S14e_annual_context.csv,18108,Aggregate table/source dictionary
+Table_S15a_fingerprint_coverage.csv,370,Aggregate table/source dictionary
+Table_S15b_cluster_summary.csv,49362,Aggregate table/source dictionary
+Table_S15c_fingerprint_contrasts.csv,2680,Aggregate table/source dictionary
+Table_S15d_agent_fingerprint_coverage.csv,374,Aggregate table/source dictionary
+Table_S15e_fingerprint_burden.csv,9018,Aggregate table/source dictionary
+Table_S15f_fingerprint_country_counts.csv,938,Aggregate table/source dictionary
+Table_S15g_PT_relaxed_fingerprint_contrasts.csv,1137,Aggregate table/source dictionary
+Table_S15h_PT_relaxed_fingerprint_coverage.csv,261,Aggregate table/source dictionary
+Table_S16_whole_database.csv,973,Aggregate table/source dictionary
+Table_S17_multiplicity.csv,996,Aggregate table/source dictionary
+Table_S1a_sources_and_retention.csv,414,Aggregate table/source dictionary
+Table_S1b_linkage_and_coverage.csv,420,Aggregate table/source dictionary
+Table_S1c_source_file_inventory.csv,489,Aggregate table/source dictionary
+Table_S2a_exposure_aliases.csv,16033,Aggregate table/source dictionary
+Table_S2b_alias_evidence.csv,1044,Aggregate table/source dictionary
+Table_S2c_blank_ingredient_name_audit.csv,2592,Aggregate table/source dictionary
+Table_S3a_source_event_dictionary.csv,2910,Aggregate table/source dictionary
+Table_S3b_terminology_audit.csv,740,Aggregate table/source dictionary
+Table_S4a_primary_four_cells.csv,4664,Aggregate table/source dictionary
+Table_S4b_FAERS_cosuspected_classes.csv,333,Aggregate table/source dictionary
+Table_S5a_burden_summary.csv,339,Aggregate table/source dictionary
+Table_S5b_burden_strata.csv,3089,Aggregate table/source dictionary
+Table_S5c_burden_MH_Woolf.csv,724,Aggregate table/source dictionary
+Table_S5d_burden_roles_and_senders.csv,1316,Aggregate table/source dictionary
+Table_S5e_PS_only_burden_feasibility.csv,2424,Aggregate table/source dictionary
+Table_S5f_JADER_burden_strata.csv,2615,Aggregate table/source dictionary
+Table_S5g_JADER_burden_MH_Woolf.csv,687,Aggregate table/source dictionary
+Table_S6a_roles_and_reporters.csv,52167,Aggregate table/source dictionary
+Table_S6b_reporter_composition.csv,3627,Aggregate table/source dictionary
+Table_S7a_comparator_exclusions.csv,5117,Aggregate table/source dictionary
+Table_S7b_exclusive_NMBA_pairs.csv,3955,Aggregate table/source dictionary
+Table_S8a_context_marker_sensitivity.csv,2922,Aggregate table/source dictionary
+Table_S8b_context_coverage_probe.csv,1798,Aggregate table/source dictionary
+Table_S8c_probe_alias_hits.csv,194,Aggregate table/source dictionary
+Table_S9a_FAERS_sugammadex_coreports.csv,2149,Aggregate table/source dictionary
+Table_S9b_FAERS_sugammadex_exclusion.csv,3788,Aggregate table/source dictionary
+Table_S9c_Canada_JADER_sugammadex_coreports.csv,1344,Aggregate table/source dictionary
+Table_S9d_Canada_JADER_sugammadex_exclusion.csv,3495,Aggregate table/source dictionary

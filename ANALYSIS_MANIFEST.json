@@ -1,0 +1,20 @@
+{
+  "analysis_lock": "2026-10-18",
+  "software": {
+    "python": "3.12.14",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "sqlite": "3.53.1"
+  },
+  "FAERS": "2004 Q1\u20132025 Q4 releases",
+  "Canada": "coverage through 2026-05-31",
+  "JADER": "September 2026 release; report-quarter labels 2004 Q1\u20132026 Q1",
+  "unit": "retained spontaneous reports",
+  "clinical_cases_adjudicated": false,
+  "diagnostics": "post hoc; descriptive intervals except S17 multiplicity sensitivity",
+  "public_version": "1.0",
+  "release_date": "2026-10-18",
+  "previous_snapshot_commit": "592b669710144c02daf2c5c37966c928f6193721",
+  "source_of_aggregates": "Finalized local submission candidate; S1\u2013S17 are identical to its Online Resource 1",
+  "new_zenodo_deposit": false
+}

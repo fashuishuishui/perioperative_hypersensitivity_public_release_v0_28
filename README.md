@@ -1,42 +1,44 @@
-# Perioperative anaphylaxis pharmacovigilance audit
+# Perioperative anaphylaxis: background-dependent reporting contrasts
 
-This repository contains the reproducibility materials for the manuscript *When suspected-drug attribution changes with the reference set: a multi-database pharmacovigilance audit of perioperative anaphylaxis reports*.
+**Current version: v1.0 — analytical lock 18 October 2026.**
 
-The study asks what an agent-level suspected-drug contrast in a spontaneous-reporting system describes when its reporting reference setting is made explicit. It is not a clinical risk, incidence, or culprit-adjudication analysis. NAP6 is used as clinical context, not as a validation dataset. The repository is an empirical pharmacovigilance audit package, not a clinical risk calculator or a general-purpose signal-detection framework.
+This is the public code and aggregate-data companion to *Background dependence of within-class disproportionality in perioperative anaphylaxis reports: a three-database methodological case study*.
+The repository URL retains its historical `_v0_28` suffix. The current default branch and `v1.0` tag contain the analysis accompanying the current four-drug manuscript, not the older v0.28 numerical snapshot. Earlier code and results remain retrievable through Git history and the pre-existing historical tag; they must not be mixed with this version.
 
-## Current state
+## Use this snapshot
 
-- FAERS 2004 Q1-2025 Q4 was rebuilt from 88 official quarterly ASCII archives. ZIP/CRC/SHA-256 checks, historical-schema mapping, DELETE handling, case-version retention, and source-period-safe joins are documented in `work/faers_raw_2004q1_2025q4_schema_fixed/`.
-- Canada Vigilance and JADER were rerun from frozen local extracts after identifier and linkage audits. Their source-provenance boundary is explicitly recorded in the manuscript and supplement.
-- The canonical aggregate output lock is `aggregate_outputs/schema_fixed/canonical_artifact_lock_v0_26.json` and reads `"result": "passed"` for the released analysis branch.
-- This repository contains only code, bounded project mappings, aggregate outputs, figures, and manifests. It does not contain raw reports, SQLite databases, or licensed MedDRA/SMQ content.
-- Code repository: https://github.com/fashuishuishui/perioperative_hypersensitivity_public_release_v0_28
-- Archived release DOI: https://doi.org/10.5281/zenodo.22671893
+- `Table_S*.csv`: the complete, full-precision S1–S17 table groups, matching Online Resource 1 of the local submission candidate finalized on 18 October 2026.
+- `code/` and `config/`: source-qualified analysis scripts, bounded drug/event dictionaries, public source inventories and a configurable input-path template.
+- `figures/`: the three current manuscript figures (PDF/SVG and PNG previews).
+- `README.txt`: input setup, analysis order, table conventions and interpretation limits.
+- `ANALYSIS_MANIFEST.json`: source windows and the analysis software versions.
+- `FILE_INDEX.csv`: inventory of the complete public snapshot.
+- `REPRODUCIBILITY.md`: verification and figure-generation commands.
 
-## Repository layout
+No raw regulatory reports, patient/report-level caches, licensed MedDRA dictionaries or complete SMQ membership, private input paths, manuscript/cover-letter files, or internal author-review archives are distributed.
 
-- `code/`: data-build, analysis, validation, figure, and supplementary-package scripts.
-- `raw_rebuild/`: FAERS archive retrieval and raw-source reconstruction scripts.
-- `aggregate_outputs/schema_fixed/`: validated aggregate result tables.
-- `figures/v0_26/`: manuscript figures in PDF, SVG, and PNG-preview formats.
-- `supplementary/v0_26/`: aggregate-only supplementary tables and manifests.
-- `run_v0_26_rebuild.ps1`: parameterized end-to-end runner.
+## Study scope and main interpretation
 
-## Reproduce the analysis
+Rocuronium, succinylcholine, cefazolin and teicoplanin are exploratory case studies of same-class reporting contrasts. FAERS uses 2004 Q1–2025 Q4 releases; Canada Vigilance covers through 31 May 2026; JADER uses the September 2026 release. Systems are analyzed separately, without pooling or cross-system patient linkage.
 
-Obtain permitted source data before running. The runner requires local Canada Vigilance and JADER source directories. It also requires a licensed local MedDRA distribution for the optional official-SMQ sensitivity. The public repository intentionally does not include any of those source files.
+Medication-context FAERS RORs (95% CIs) are 1.38 (1.27–1.50), 0.89 (0.80–1.00), 3.92 (3.53–4.35) and 1.32 (1.00–1.73), respectively. RORs are reporting associations, not incidence or clinical culprit-risk rankings.
 
-```powershell
-.\run_v0_26_rebuild.ps1 `
-  -CanadaDir "<path-to-CANADA_20250731>" `
-  -JaderDir "<path-to-JADER_202511>" `
-  -PythonExe "<path-to-python>" `
-  -RscriptExe "<path-to-Rscript>" `
-  -FaersZipDir "<path-to-faers_ascii_2004q1_2025q4>" `
-  -ReuseValidatedFaersRawIntegrity `
-  -MedDraAscii "<path-to-licensed-MedDRA-MedAscii>"
+The monotonic rocuronium medication-burden gradient in FAERS was not reproduced in JADER. Teicoplanin fingerprint analyses cover only 36 of 66 target-core reports; 30 have incomplete required fields. Strict and PT-relaxed merging are scenario sensitivities, not bounds on unique patients or true duplicates. `Table_S4a_primary_four_cells.csv`, S5 and S15 provide the full counts and uncertainty behind these statements.
+
+## Check the released aggregates
+
+Use Python 3.12 and the dependencies listed in `requirements.txt` for analysis. The aggregate verifier uses only the Python standard library and does not require raw data, credentials or a MedDRA licence:
+
+```console
+python code/verify_aggregate_results.py .
 ```
 
-Use `-ReuseValidatedFaersRawIntegrity` only when the named raw SQLite branch has already passed the full source-build integrity check; the rebuilt manifest records this audit path. Without this switch, reuse mode performs another full SQLite integrity scan before rebuilding the retained-report cache. Use `-SkipLicensedSmq` when a licensed MedDRA distribution is unavailable. This skips only the post hoc official-SMQ sensitivity; it does not alter the primary three-preferred-term analysis. Use `-RebuildFaersRaw` only when the local raw FAERS SQLite source branch should be rebuilt from the 88 audited ZIP archives.
+Expected result: 753 four-cell rows recomputed, status `passed`. This checks RORs, log-ROR confidence intervals, Newcombe share-difference intervals, sparse-cell handling and Bonferroni intervals. It is an arithmetic check, not clinical adjudication or proof that no bias remains.
 
-See `REPRODUCIBILITY.md` and `LICENSE_BOUNDARIES.md` before release or rerun.
+Full source reconstruction requires the named regulator releases and, for the official FAERS SMQ sensitivity, licensed MedDRA v28.0 files. See `README.txt` and `REPRODUCIBILITY.md`. Local input paths belong in the ignored `config/paths.json`, never in tracked files.
+
+## Version and citation
+
+Cite the `v1.0` tag or its commit for this analysis; `CITATION.cff` describes this snapshot. The DOI formerly present in this repository's metadata refers to an earlier archived snapshot and is not the DOI for v1.0. No new Zenodo deposit or DOI is asserted here. See `CHANGELOG.md` for the transition from the superseded snapshot.
+
+Original code retains the existing MIT licence. Regulatory data and licensed terminology retain their own access and redistribution conditions; see `LICENSE_BOUNDARIES.md`.

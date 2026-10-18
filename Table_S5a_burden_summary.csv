@@ -1,0 +1,9 @@
+﻿drug_class,in_context,outcome,n,median,q1,q3
+NMBA,False,core,907,2,1,4
+NMBA,False,noncore,3859,1,1,3
+NMBA,True,core,2762,6,4,9
+NMBA,True,noncore,8557,8,5,13
+antibiotic_anchor,False,core,5934,2,1,3
+antibiotic_anchor,False,noncore,175983,3,2,7
+antibiotic_anchor,True,core,2096,7,5,10
+antibiotic_anchor,True,noncore,10454,12,7,22

@@ -1,0 +1,5 @@
+﻿database,drug_class,agent,fingerprint_rule,a,b,c,d,class_core_n,class_noncore_n,sparse,core_share,noncore_share,difference_pp,ror,ror_ci_low,ror_ci_high,difference_ci_low,difference_ci_high
+FAERS,NMBA,rocuronium,PT_relaxed_complete_demographics_date_country_outcome,1135,1003,3373,3900,2138,7273,False,0.530869971936,0.463770108621,6.70998633155,1.30840801048,1.18788664692,1.44115730766,4.30012829409,9.10828658085
+FAERS,NMBA,succinylcholine,PT_relaxed_complete_demographics_date_country_outcome,369,1769,1459,5814,2138,7273,False,0.172591206735,0.200604977313,-2.80137705781,0.831224372533,0.73282072121,0.942841731265,-4.60586739512,-0.910829316898
+FAERS,antibiotic_anchor,cefazolin,PT_relaxed_complete_demographics_date_country_outcome,648,975,1064,7244,1623,8308,False,0.399260628466,0.128069330766,27.11912977,4.52488143436,4.01980139483,5.09342377494,24.6507489594,29.6231161666
+FAERS,antibiotic_anchor,teicoplanin,PT_relaxed_complete_demographics_date_country_outcome,45,1578,174,8134,1623,8308,False,0.0277264325323,0.020943668753,0.678276377934,1.33309295922,0.956296216369,1.85835393627,-0.0905937865076,1.63910000807

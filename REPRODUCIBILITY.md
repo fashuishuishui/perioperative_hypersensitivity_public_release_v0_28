@@ -1,65 +1,26 @@
-# Reproducibility guide: v0.26 raw rebuild
+# Reproduce this snapshot
 
-## Analysis unit and source boundary
+## Without raw source data
 
-The analysis unit is a database-specific retained reporting unit. FAERS uses one retained report per case family after DELETE handling and latest-version selection. Canada Vigilance uses the supplied report identifier after a duplicate and linkage audit. JADER uses the supplied report identifier with a latest-round rule; the audited November 2025 local extract contained no repeated identifier.
+From the repository root:
 
-The primary outputs use official re-downloaded FAERS archives, a frozen local Canada Vigilance extract dated 31 July 2025, and a frozen local JADER extract dated November 2025. The Canada and JADER local files are not redistributed. An official Open Canada archive through 30 November 2024 was separately downloaded and audited but was not substituted into the study because it would change the planned date window. PMDA terms must be accepted by the user before any official JADER archive can be downloaded.
-
-## Required software
-
-- Python 3.12.13
-- SQLite 3.50.4
-- R 4.5.1
-- R package `DescTools` 0.99.60
-- A licensed MedDRA v28.0 distribution only for the optional official *Anaphylactic reaction* SMQ sensitivity
-
-## Required local inputs
-
-1. FAERS official quarterly ASCII ZIP archives in `raw_inputs/faers_ascii_2004q1_2025q4/` or another path passed through the raw-rebuild script.
-2. A Canada Vigilance source directory containing `reports.txt*`, `reactions.txt*`, and `report_drug.txt*`.
-3. A JADER source directory containing `demo202511.csv*`, `reac202511.csv*`, and `drug202511.csv*`.
-4. Licensed MedDRA files when the official-SMQ sensitivity is required.
-
-The optional `*` suffix supports a local downloader suffix without copying, renaming, or redistributing source material.
-
-## End-to-end runner
-
-Run the following from the repository root after adapting paths:
-
-```powershell
-.\run_v0_26_rebuild.ps1 `
-  -CanadaDir "<path-to-CANADA_20250731>" `
-  -JaderDir "<path-to-JADER_202511>" `
-  -PythonExe "<path-to-python>" `
-  -RscriptExe "<path-to-Rscript>" `
-  -FaersZipDir "<path-to-faers_ascii_2004q1_2025q4>" `
-  -ReuseValidatedFaersRawIntegrity `
-  -MedDraAscii "<path-to-licensed-MedDRA-MedAscii>"
+```console
+python code/verify_aggregate_results.py .
+python code/generate_figures.py
 ```
 
-Use `-ReuseValidatedFaersRawIntegrity` only after the named raw SQLite branch has passed the full source-build integrity check. The source manifest then records `raw_integrity_check_method` as `reused_from_source_build`; cache integrity is still checked afresh. Omit the switch when an independent full SQLite integrity rescan is required. Use `-SkipLicensedSmq` if licensed MedDRA files are unavailable. To reconstruct the FAERS raw SQLite branch from the source archives, add `-RebuildFaersRaw`; this is time- and storage-intensive and rewrites only the explicitly named source-build outputs.
+The verifier recomputes all 753 exported four-cell rows with standard-library formulas. Figure generation uses pandas and matplotlib and reads only the released tables. The generated figures describe the same reporting contrasts as the manuscript; native CSV fields retain full precision.
 
-The runner performs these stages in order:
+## Full source reconstruction
 
-1. audit or rebuild the FAERS raw source and retained-case cache;
-2. rebuild FAERS, Canada Vigilance, and JADER report-level flags;
-3. calculate the primary reference-setting, country, role, burden, broad-PT, teicoplanin-time, and JADER-structure diagnostics;
-4. run the licensed official-SMQ sensitivity when requested;
-5. build and validate the canonical artifacts;
-6. independently reproduce Breslow-Day statistics in R;
-7. regenerate figures and the aggregate-only supplementary package.
+Use `README.txt` for the exact preparation steps and analysis order. Copy `config/paths.example.json` to the ignored `config/paths.json`, edit locations for your own permitted inputs, and start with an empty `work/` for a different source/dictionary lock. Do not reuse report-level caches after changing sources, aliases, role definitions or outcomes.
 
-## Validation gate
+The FAERS initializer is `code/prepare_faers_sources.py`. It imports the 88 listed regulator archives, applies historical schema mappings, case-version/deletion handling and source-period-qualified joins. The named complete Canada/JADER extracts are rebuilt with their native identifiers/rounds; they are not recovered from the earlier 2025 caches. The official FAERS SMQ sensitivity requires local licensed MedDRA v28.0 membership and LLT/PT files. They are not supplied. JADER native-term diagnostics are not an official cross-language SMQ reconstruction.
 
-The final check is `aggregate_outputs/schema_fixed/canonical_artifact_lock_v0_26.json`. It validates:
+All source-based analyses use the paths template; no report-level records are distributed. Analyses generate intermediate and aggregate output directories that are intentionally ignored by Git. The numbered-table exporter maps generated output names to S1–S17.
 
-- report-level sum-backs and 2 x 2 tables;
-- displayed shares and non-sparse RORs;
-- country-stratum sum-backs;
-- medication-burden and role-profile sum-backs;
-- JADER structural-audit consistency;
-- official-SMQ aggregate output consistency; and
-- independent R/DescTools Breslow-Day calculations.
+## Acceptance evidence
 
-Do not copy a number into the manuscript, table, or figure unless it derives from a passing canonical lock. The public release must preserve the source manifests and aggregate result hashes, but must not include raw reports, report-level SQLite databases, or licensed MedDRA/SMQ terms.
+The released aggregate tables and approved manuscript figures are taken directly from the local submission candidate finalized on 18 October 2026. All 753 four-cell rows were independently recalculated; JADER burden strata sum to the corresponding primary tables, and fingerprint/burden checks are recorded in the local author audit. The public FAERS diagnostic runner was executed against the same source branch and matched 16 aggregate outputs; unchanged source extractions were reused. The raw-source import was not rerun solely to publish this code snapshot.
+
+These checks concern numerical consistency and execution, not verification of individual clinical episodes. The authors remain responsible for final review, interpretation and manuscript content; publication authorization is not a substitute for that review.

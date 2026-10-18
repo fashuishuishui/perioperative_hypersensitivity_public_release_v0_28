@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="410.58pt" height="385.848pt" viewBox="0 0 410.58 385.848" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-18T13:01:47.598465</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 385.848 
+L 410.58 385.848 
+L 410.58 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <g id="patch_2">
+     <path d="M 17.530313 47.033781 
+L 128.929688 47.033781 
+L 128.929688 20.430219 
+L 17.530313 20.430219 
+z
+" style="fill: #ffffff; stroke: #287cb3; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(61.339563 31.14518)">FAERS</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(21.710313 40.267258)">2004 Q1–2025 Q4 releases</text>
+   </g>
+   <g id="text_2">
+    <g id="patch_3">
+     <path d="M 36.372375 102.750981 
+L 110.087625 102.750981 
+L 110.087625 76.147419 
+L 36.372375 76.147419 
+z
+" style="fill: #ffffff; stroke: #287cb3; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(40.552375 86.862973)">DEMO input rows</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(51.472625 95.984458)">23,992,742</text>
+   </g>
+   <g id="text_3">
+    <g id="patch_4">
+     <path d="M 16.531031 158.468478 
+L 129.928969 158.468478 
+L 129.928969 131.864322 
+L 16.531031 131.864322 
+z
+" style="fill: #ffffff; stroke: #287cb3; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(20.711031 142.579877)">After DELETE / case-version</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(31.65325 151.701955)">retention: 19,963,024</text>
+   </g>
+   <g id="text_4">
+    <g id="patch_5">
+     <path d="M 13.098563 214.185678 
+L 133.361438 214.185678 
+L 133.361438 187.581522 
+L 13.098563 187.581522 
+z
+" style="fill: #ffffff; stroke: #287cb3; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(17.278563 198.297077)">After 1,788 identifier-collision</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(29.228969 207.419155)">exclusions: 19,961,236</text>
+   </g>
+   <g id="text_5">
+    <g id="patch_6">
+     <path d="M 28.906563 279.769723 
+L 117.553438 279.769723 
+L 117.553438 244.044677 
+L 28.906563 244.044677 
+z
+" style="fill: #ffffff; stroke: #287cb3; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(38.551438 254.760231)">Outcome partition</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(49.930656 263.881716)">Core 75,623</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(33.086563 273.0032)">Non-core 19,885,613</text>
+   </g>
+   <g id="text_6">
+    <g id="patch_7">
+     <path d="M 12.014969 340.79362 
+L 134.445031 340.79362 
+L 134.445031 305.06798 
+L 12.014969 305.06798 
+z
+" style="fill: #ffffff; stroke: #287cb3; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(21.988781 315.783534)">Medication-marker context</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(47.433344 324.905613)">Total 372,639</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(16.194969 334.027097)">Core 7,928; non-core 364,711</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 73.23 52.716631 
+Q 73.23 59.735042 73.23 66.082634 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 74.83 62.882634 
+L 73.23 66.082634 
+L 71.63 62.882634 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 73.23 108.433831 
+Q 73.23 115.452242 73.23 121.799834 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 74.83 118.599834 
+L 73.23 121.799834 
+L 71.63 118.599834 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 73.23 164.151031 
+Q 73.23 171.169442 73.23 177.517034 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 74.83 174.317034 
+L 73.23 177.517034 
+L 71.63 174.317034 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 73.23 219.862012 
+Q 73.23 229.537637 73.23 238.542442 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 74.83 235.342442 
+L 73.23 238.542442 
+L 71.63 235.342442 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 73.23 280.885612 
+Q 73.23 290.561237 73.23 299.566042 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 74.83 296.366042 
+L 73.23 299.566042 
+L 71.63 296.366042 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <g id="patch_13">
+     <path d="M 165.405438 47.034078 
+L 245.174563 47.034078 
+L 245.174563 20.429922 
+L 165.405438 20.429922 
+z
+" style="fill: #ffffff; stroke: #d87c27; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(190.829813 31.145477)">Canada</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(169.585438 40.267555)">Through May 2026</text>
+   </g>
+   <g id="text_8">
+    <g id="patch_14">
+     <path d="M 158.334469 102.750981 
+L 252.245531 102.750981 
+L 252.245531 76.147419 
+L 158.334469 76.147419 
+z
+" style="fill: #ffffff; stroke: #d87c27; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(162.514469 86.862973)">Source metadata rows</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(185.950375 95.984458)">1,266,430</text>
+   </g>
+   <g id="text_9">
+    <g id="patch_15">
+     <path d="M 164.908469 163.02922 
+L 245.671531 163.02922 
+L 245.671531 127.30358 
+L 164.908469 127.30358 
+z
+" style="fill: #ffffff; stroke: #d87c27; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(169.088469 138.019134)">After latest-version</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(187.958438 147.141213)">retention</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(185.950375 156.262697)">1,266,430</text>
+   </g>
+   <g id="text_10">
+    <g id="patch_16">
+     <path d="M 159.578375 218.74642 
+L 251.001625 218.74642 
+L 251.001625 183.02078 
+L 159.578375 183.02078 
+z
+" style="fill: #ffffff; stroke: #d87c27; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(173.655594 193.736334)">Retained reports</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(185.950375 202.857819)">1,266,430</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(163.758375 211.979897)">Unlinked drug rows: 0</text>
+   </g>
+   <g id="text_11">
+    <g id="patch_17">
+     <path d="M 163.384313 279.769723 
+L 247.195688 279.769723 
+L 247.195688 244.044677 
+L 163.384313 244.044677 
+z
+" style="fill: #ffffff; stroke: #d87c27; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(170.611438 254.760231)">Outcome partition</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(184.408406 263.881716)">Core 8,275</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(167.564313 273.0032)">Non-core 1,258,155</text>
+   </g>
+   <g id="text_12">
+    <g id="patch_18">
+     <path d="M 149.868781 340.79362 
+L 260.711219 340.79362 
+L 260.711219 305.06798 
+L 149.868781 305.06798 
+z
+" style="fill: #ffffff; stroke: #d87c27; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(154.048781 315.783534)">Medication-marker context</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(181.911094 324.905613)">Total 17,652</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(154.298156 334.027097)">Core 632; non-core 17,020</text>
+   </g>
+   <g id="patch_19">
+    <path d="M 205.29 52.716631 
+Q 205.29 59.735042 205.29 66.082634 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 206.89 62.882634 
+L 205.29 66.082634 
+L 203.69 62.882634 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 205.29 108.433831 
+Q 205.29 115.452242 205.29 121.799834 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 206.89 118.599834 
+L 205.29 121.799834 
+L 203.69 118.599834 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 205.29 164.151031 
+Q 205.29 171.169442 205.29 177.517034 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 206.89 174.317034 
+L 205.29 177.517034 
+L 203.69 174.317034 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 205.29 219.862012 
+Q 205.29 229.537637 205.29 238.542442 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 206.89 235.342442 
+L 205.29 238.542442 
+L 203.69 235.342442 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 205.29 280.885612 
+Q 205.29 290.561237 205.29 299.566042 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 206.89 296.366042 
+L 205.29 299.566042 
+L 203.69 296.366042 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_13">
+    <g id="patch_24">
+     <path d="M 286.221594 47.033781 
+L 388.478406 47.033781 
+L 388.478406 20.430219 
+L 286.221594 20.430219 
+z
+" style="fill: #ffffff; stroke: #398853; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(325.728531 31.14518)">JADER</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(290.401594 40.267258)">September 2026 release</text>
+   </g>
+   <g id="text_14">
+    <g id="patch_25">
+     <path d="M 290.394469 102.750981 
+L 384.305531 102.750981 
+L 384.305531 76.147419 
+L 290.394469 76.147419 
+z
+" style="fill: #ffffff; stroke: #398853; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(294.574469 86.862973)">Source metadata rows</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(318.010375 95.984458)">1,054,239</text>
+   </g>
+   <g id="text_15">
+    <g id="patch_26">
+     <path d="M 296.968469 163.02922 
+L 377.731531 163.02922 
+L 377.731531 127.30358 
+L 296.968469 127.30358 
+z
+" style="fill: #ffffff; stroke: #398853; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(301.148469 138.019134)">After latest-version</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(320.018437 147.141213)">retention</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(318.010375 156.262697)">1,054,239</text>
+   </g>
+   <g id="text_16">
+    <g id="patch_27">
+     <path d="M 291.638375 218.74642 
+L 383.061625 218.74642 
+L 383.061625 183.02078 
+L 291.638375 183.02078 
+z
+" style="fill: #ffffff; stroke: #398853; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(305.715594 193.736334)">Retained reports</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(318.010375 202.857819)">1,054,239</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(295.818375 211.979897)">Unlinked drug rows: 0</text>
+   </g>
+   <g id="text_17">
+    <g id="patch_28">
+     <path d="M 295.444312 279.769723 
+L 379.255687 279.769723 
+L 379.255687 244.044677 
+L 295.444312 244.044677 
+z
+" style="fill: #ffffff; stroke: #398853; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(302.671437 254.760231)">Outcome partition</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(314.050656 263.881716)">Core 33,923</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(299.624312 273.0032)">Non-core 1,020,316</text>
+   </g>
+   <g id="text_18">
+    <g id="patch_29">
+     <path d="M 278.552719 340.79362 
+L 396.147281 340.79362 
+L 396.147281 305.06798 
+L 278.552719 305.06798 
+z
+" style="fill: #ffffff; stroke: #398853; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(286.108781 315.783534)">Medication-marker context</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(313.971094 324.905613)">Total 29,935</text>
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'" transform="translate(282.732719 334.027097)">Core 4,194; non-core 25,741</text>
+   </g>
+   <g id="patch_30">
+    <path d="M 337.35 52.716631 
+Q 337.35 59.735042 337.35 66.082634 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 338.95 62.882634 
+L 337.35 66.082634 
+L 335.75 62.882634 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 337.35 108.433831 
+Q 337.35 115.452242 337.35 121.799834 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 338.95 118.599834 
+L 337.35 121.799834 
+L 335.75 118.599834 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 337.35 164.151031 
+Q 337.35 171.169442 337.35 177.517034 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 338.95 174.317034 
+L 337.35 177.517034 
+L 335.75 174.317034 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 337.35 219.862012 
+Q 337.35 229.537637 337.35 238.542442 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 338.95 235.342442 
+L 337.35 238.542442 
+L 335.75 235.342442 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 337.35 280.885612 
+Q 337.35 290.561237 337.35 299.566042 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 338.95 296.366042 
+L 337.35 299.566042 
+L 335.75 296.366042 
+" style="fill: none; stroke: #777777; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="205.29" y="373.3416" transform="rotate(-0 205.29 373.3416)">Separate reporting systems; identical medication-context eligibility in core and non-core arms.</text>
+   </g>
+  </g>
+ </g>
+</svg>

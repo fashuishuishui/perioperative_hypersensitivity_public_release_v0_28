@@ -1,0 +1,9 @@
+{
+  "raw_sqlite": "../../source_data/faers/faers_raw_2004q1_2025q4.sqlite",
+  "latest_sqlite": "../../source_data/faers/faers_latest_2004q1_2025q4.sqlite",
+  "faers_zip_dir": "../../source_data/faers_quarter_zips",
+  "meddra_pt_smq": "../../licensed/MedDRA_28_0",
+  "meddra_llt": "../../licensed/MedDRA_28_0",
+  "canada_raw": "../../source_data/canada_20260531",
+  "jader_raw": "../../source_data/jader_202609"
+}

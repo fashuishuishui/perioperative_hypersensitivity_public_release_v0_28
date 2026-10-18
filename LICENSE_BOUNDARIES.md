@@ -1,24 +1,9 @@
-# License and redistribution boundaries
+# Licence and redistribution boundaries
 
-This file is a scope notice, not a grant of rights for third-party source material.
+The existing MIT licence in `LICENSE` is retained for original project code. This notice does not grant rights to third-party regulatory data or terminology.
 
-## Included
+Included: original analysis/figure code, source-access instructions, bounded study-specific aliases and event concepts, aggregate derived tables, software/source-window metadata and manuscript figure exports.
 
-- Original analysis code written for this project.
-- Original build notes, manifests, figure-generation code, and aggregate derived outputs.
-- Bounded drug aliases and project event-group mappings, subject to the source terms and any required author review before public release.
+Excluded: raw FAERS, Canada Vigilance or JADER reports; report-level database/cache files or fingerprints; personal local paths, credentials and correspondence; full licensed MedDRA/MedDRA-J PT/LLT tables and official SMQ membership; author-internal archives and manuscript submission correspondence.
 
-## Excluded
-
-- Raw FAERS, Canada Vigilance, and JADER extracts, including report-level records and SQLite databases.
-- Licensed MedDRA and MedDRA/J dictionaries, source tables, PT/LLT files, and SMQ membership files.
-- Any local cache or intermediate database containing report-level records.
-- Local absolute paths, credentials, tokens, private correspondence, and unpublished raw narratives.
-
-## Official SMQ sensitivity
-
-The repository may retain the SMQ identifier, version, algorithm, source-file hashes, aggregate membership counts, and aggregate estimates. It must not redistribute the licensed SMQ membership rows or MedDRA source files. The JADER branch must not be described as an official SMQ analysis without a licensed MedDRA/J PT-code crosswalk.
-
-## License selection
-
-Original code in this repository is released under the MIT License in `LICENSE`. Documentation and aggregate derived outputs are provided under the terms described in the repository documentation; this does not grant rights to redistribute regulatory source data or licensed MedDRA/MedDRA/J/SMQ content. Bounded drug aliases and project event-group mappings remain subject to the applicable source terms and should not be interpreted as a redistribution of the underlying proprietary terminology.
+The short study-specific source-term lists and aggregate source-PT frequencies document this project's definitions. They are not a replacement for a licensed terminology distribution. Source datasets, drug labels and terminology retain their own access and reuse conditions. Readers must obtain permitted raw sources and licensed membership separately for a full source-based reconstruction. Japanese source-term analyses are not represented as official SMQ analyses.
